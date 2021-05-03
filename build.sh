@@ -1,4 +1,4 @@
 #!/bin/sh
 
 bundle exec jekyll serve
-open <localhost:4000>
+#open <http://localhost:4000>

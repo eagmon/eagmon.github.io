@@ -61,7 +61,7 @@ PLATFORMS
   universal-darwin-20
 
 DEPENDENCIES
-  jekyll (~> 4.0)
+  jekyll
 
 BUNDLED WITH
    2.2.16
