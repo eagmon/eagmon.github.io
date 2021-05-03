@@ -4,6 +4,6 @@ title: Art
 permalink: /art/
 ---
 
-![EranSarah](images/artwork/EandS.jpg)
+![EranSarah](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/EandS.jpg)
 
-![CoraSammy](images/artwork/CandS.jpg)
+![CoraSammy](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/CandS.jpg)
