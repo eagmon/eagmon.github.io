@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
 ## Research
 
 I am interested in the organization of living cells – what makes certain physical systems alive? What factors determine cells types and the transitions between them? How do cells divide? How do they develop? And how do they ultimately die? 
