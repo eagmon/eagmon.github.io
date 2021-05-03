@@ -4,4 +4,6 @@ title: Art
 permalink: /art/
 ---
 
-My artwork
+![EranSarah](images/artwork/EandS.jpg)
+
+![CoraSammy](images/artwork/CandS.jpg)
