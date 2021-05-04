@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-My CV
+ {% pdf "/files/Agmon_CV.pdf" %}
