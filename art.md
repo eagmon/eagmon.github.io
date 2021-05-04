@@ -37,7 +37,7 @@ step 3 - paint, applying my own personal interpretation:
 
 ![genesis1](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/genesis1.jpg)
 
-![infinity_loop](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/infinity_loop.jpg)
+![infinite_loop](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/infinite_loop.jpg)
 
 ![streams_converge](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/streams_converge.jpg)
 
