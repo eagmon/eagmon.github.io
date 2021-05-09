@@ -24,7 +24,7 @@ and 3) collaborative coding practices that improve how models are reused, recomb
 These advances allow us to iterate on model design and create increasingly complex simulations by building off of prior work.
 
 ![BigPicture](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/molecule-cell-environment.png)
-*The big picture – modeling multiple scales of cell biology.* 
+**The big picture – modeling multiple scales of cell biology.**
 Cells are compartments of active molecular processes. 
 One level down – molecules have their own structure and interactions, driven by fluxes of matter and energy. 
 One level up – cells are embedded in environments within which they exchange signals and engage in behaviors such as predation, 
