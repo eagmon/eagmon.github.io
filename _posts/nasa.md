@@ -1,0 +1,12 @@
+---
+layout: post
+title: I'm a NASA scientist now!
+---
+
+May 20, 2021
+I'm humbled to join NASA's Center for the Emergence of Life as a research affiliate -- 
+[see here](https://www.nasa.gov/center-for-the-emergence-of-life/people).
+I've been working with this team since January on a project with Gabrielle Cohn, Andrew Pohorille,
+Milena Popovic, and Mark Ditzler to use machine learning to characterize RNA function from sequence 
+and structure. The results promise to reveal the fitness landscape and evolution of early life in
+the RNA world.
