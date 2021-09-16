@@ -29,18 +29,12 @@ step 3 - paint, applying my own personal interpretation:
 
 ![genesis5](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/genesis5.jpg)
 
-![genesis4](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/genesis4.jpg)
-
 ![genesis3](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/genesis3.jpg)
 
 ![genesis2](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/genesis2.jpg)
 
 ![genesis1](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/genesis1.jpg)
 
-![infinite_loop](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/infinite_loop.jpg)
-
 ![streams_converge](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/streams_converge.jpg)
-
-![timeline](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/timeline.jpg)
 
 ![cliffs](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/artwork/cliffs.jpg)
