@@ -14,20 +14,19 @@ I completed my PhD in Informatics (emphasis in complex systems) and Cognitive Sc
 where I worked with [Randy Beer](https://rdbeer.pages.iu.edu). 
 There, my research was funded by an NSF IGERT on the Dynamics of Brain-Body-Environment Systems in Behavior and Cognition.
 
-My research involves applying many computational models and machine learning to map and interpret complex biological data, 
-automate the construction of models in computational biology, and speed up the rate of collective scientific progress in the field of cellular biology. 
-Within that domain, my work has focused on whole cells, metabolism, lipid membranes, and neural systems. 
-I am interested in quantifying and controlling the viability of organisms – whether it is in cell development and death, 
-in adaptation, in medicine, or in the origins of life.
+My research involves combining computational modeling methods and machine learning to map and interpret complex 
+biological data, automate the construction of models in computational biology, and speed up the rate of 
+scientific progress in the field of cellular biology. Within that domain, my work has focused on whole cells, 
+metabolism, lipid membranes, and neural systems. I am interested in quantifying and controlling the viability of 
+organisms – whether it is in cell development and death, in adaptation, in medicine, or at the origins of life.
 
 
 ### Research keywords
 computational systems biology, 
 multi-scale modeling and simulation, 
+cell biology,
 machine learning, 
-complex adaptive systems, 
-artificial life,
-embodied cognition
+complex adaptive systems 
 
 
 ### Contact me
