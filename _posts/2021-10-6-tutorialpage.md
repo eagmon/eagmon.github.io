@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Tutorial
+title: Tutorial is up on the Vivarium Documentation
 ---
 This dives into the code -- how to make a simulation process, 
 a simulation composite, and how to run co-simulations across 
