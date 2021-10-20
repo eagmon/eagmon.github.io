@@ -2,9 +2,8 @@
 layout: post
 title: BioSimulators
 ---
-Combine simulations @Vivarium. We're in the BioSimulators pipeline! 
-[https://biosimulators.org](https://biosimulators.org) 
-
+Combine simulations @Vivarium! We're in the BioSimulators pipeline:
+[https://biosimulators.org](https://biosimulators.org). 
 BioSimulators is a free registry of biosimulation tools, with a standardized interface. 
 The simulators support a broad range of frameworks 
 (e.g., logical, kinetic), simulation algorithms (e.g., FBA, SSA), 
