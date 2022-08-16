@@ -15,5 +15,11 @@ mechanisms into integrative multi-scale simulations. These simulations will be u
 make experimental predictions, identify medical solutions, and help us understand fundamental principles of biological 
 organization.
 
+### Research keywords
+computational systems biology, 
+multi-scale modeling and simulation, 
+cell biology,
+machine learning, 
+complex adaptive systems 
 
 ![MultiscaleNetwork](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/multiscale_network.png)

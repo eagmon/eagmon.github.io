@@ -21,12 +21,5 @@ He completed my PhD in Informatics (emphasis in complex systems) and Cognitive S
 where he worked with [Randy Beer](https://rdbeer.pages.iu.edu) as part of an NSF IGERT on the Dynamics of 
 Brain-Body-Environment Systems in Behavior and Cognition.
 
-### Research keywords
-computational systems biology, 
-multi-scale modeling and simulation, 
-cell biology,
-machine learning, 
-complex adaptive systems 
-
 ### Contact
 [agmon@uchc.edu](mailto:agmon@uchc.edu)
