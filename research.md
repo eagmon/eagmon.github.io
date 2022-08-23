@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research is focused on developing comprehensive, multi-scale models of cells – from their molecular underpinnings, 
+The Agmon Lab is focused on developing comprehensive, multi-scale models of cells – from their molecular underpinnings, 
 to their integrated functions, to the organismic level with many heterogeneous cells interacting in a shared environment. 
 The last two decades of biological research have generated abundant experimental data on the molecular composition, 
 spatial organization, and dynamics of thousands of cell types; however, we need new tools that can transform this data 

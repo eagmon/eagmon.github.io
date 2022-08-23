@@ -24,7 +24,7 @@ He completed my PhD in Informatics (emphasis in complex systems) and Cognitive S
 where he worked with [Randy Beer](https://rdbeer.pages.iu.edu) as part of an NSF IGERT on the Dynamics of 
 Brain-Body-Environment Systems in Behavior and Cognition.
 
-### CV
+
 <object data="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Agmon_CV.pdf" type="application/pdf" width="900" height="900">
   <p>Your web browser doesn't have a PDF plugin.
   Instead you can <a href="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Agmon_CV.pdf">click here to
