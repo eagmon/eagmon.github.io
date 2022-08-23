@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Eran Agmon
+permalink: /eran/
 ---
 
 Eran Agmon is an Assistant Professor at the [Center for Cell Analysis and Modeling](
@@ -14,11 +14,6 @@ software methods, and combining multi-omics datasets with diverse modeling metho
 simulations. He is applying these approaches to build mechanistic simulations of whole microbiomes that span molecular 
 to multi-cellular scales.
 
-### Vivarium Lab
-The Vivarium lab is hiring graduate students, postdocs, and a software engineer to build up the Vivarium software
-ecosystem and develop the next generation of whole-cell models. Contact Eran at 
-[agmon@uchc.edu](mailto:agmon@uchc.edu) if you are interested.
- 
 ### Prior affiliations
 He was previously a postdoctoral scientist at Stanford University’s Department of Bioengineering as part of the 
 [Covert Lab](https://www.covert.stanford.edu), a postdoc at Columbia University’s Department of Biological Sciences 
@@ -28,3 +23,10 @@ at The Institute for Advanced Study in Princeton, and a founding member of [YHou
 He completed my PhD in Informatics (emphasis in complex systems) and Cognitive Science at Indiana University, 
 where he worked with [Randy Beer](https://rdbeer.pages.iu.edu) as part of an NSF IGERT on the Dynamics of 
 Brain-Body-Environment Systems in Behavior and Cognition.
+
+### CV
+<object data="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Agmon_CV.pdf" type="application/pdf" width="900" height="900">
+  <p>Your web browser doesn't have a PDF plugin.
+  Instead you can <a href="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Agmon_CV.pdf">click here to
+  download the PDF file.</a></p>
+</object>
