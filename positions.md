@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join Us
-permalink: /join/
+permalink: /positions/
 ---
 
 The Agmon Lab is hiring graduate students, postdocs, and a software engineer to build up the Vivarium software
