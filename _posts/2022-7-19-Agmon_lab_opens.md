@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Agmon Lab is Open
+title: The Agmon Lab is open
 ---
 
 As of today, the Agmon Lab (also known as the Vivarium lab) is open in the Center for Cell Analysis and Modeling.
