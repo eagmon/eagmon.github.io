@@ -17,7 +17,7 @@ to multi-cellular scales.
 ### Prior affiliations
 He was previously a postdoctoral scientist at Stanford University’s Department of Bioengineering as part of the 
 [Covert Lab](https://www.covert.stanford.edu), a postdoc at Columbia University’s Department of Biological Sciences 
-in the [Stockwell lab](http://www.columbia.edu/cu/biology/StockwellLab/index/index.html), 
+in the [Stockwell lab](http://www.columbia.edu/cu/biology/StockwellLab/index/index.html), and 
 a visiting scholar in the [Program for Interdisciplinary Studies](https://www.ias.edu/ids) 
 at The Institute for Advanced Study in Princeton. He completed his PhD in Informatics (emphasis in complex systems) 
 and Cognitive Science at Indiana University, where he worked with [Randy Beer](https://rdbeer.pages.iu.edu) as part o
