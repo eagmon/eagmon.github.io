@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eran Agmon
+title: About Eran
 permalink: /eran/
 ---
 
