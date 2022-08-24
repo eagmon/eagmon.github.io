@@ -9,7 +9,7 @@ https://health.uconn.edu/cell-analysis-modeling/) and the [Department of Molecul
 https://health.uconn.edu/molecular-biology-biophysics/) at the University of Connecticut Health Center. He is the
 primary developer of the [Vivarium Collective](https://vivarium-collective.github.io) -- a software ecosystem for 
 modular, multiscale modeling in computational biology. This tool aims to enable labs to connect their data, models, 
-and simulators to build more comprehensive models of cells. Eran's research involves developing leveraging advanced 
+and simulators to build more comprehensive models of cells. Eran's research involves leveraging advanced 
 software methods, and combining multi-omics datasets with diverse modeling methods to generate multi-scale 
 simulations. He is applying these approaches to build simulations of whole microbiomes that span molecular 
 to multi-cellular scales.
