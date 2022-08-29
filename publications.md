@@ -4,10 +4,10 @@ title: Selected Publications
 permalink: /publications/
 ---
 
-### Vivarium
+### Integrative, multiscale modeling
 1. **Agmon, E.**, Spangler, R.K., Skalnik, C.J., Poole, W., Morrison, J.H.,  Peirce, S.M., and Covert, M.W. (2022). Vivarium: an interface and engine for integrative multi-scale modeling in computational biology. _Bioinformatics_, btac049. [Available here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac049/6522109?login=true)
 
-### Whole-cell modeling
+### Whole-cell models
 1. Skalnik, C.J., **Agmon, E.**, Spangler, R.K., Talman, L., Morrison, J.H., Peirce, S.M., and Covert, M.W. (in review). Whole-Colony Modeling of _Escherichia coli_. [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.27.441666v1)
 2. **Agmon, E.**, and Spangler, R.K. (2020). A multi-scale approach to modeling _E. coli_ chemotaxis. _Entropy_, 22: 1101. [Available here](https://www.mdpi.com/1099-4300/22/10/1101)
 3. Macklin, D.N., Ruggero, N.A., Carrera, J., Choi, H., Horst, T.A., Mason, J.C., Sun, G., **Agmon, E.**, DeFelice, M.M., Maayan, I., Lane, K., Spangler, R.K., Gillies, T.E., Paull, M.L., Akhter, S., Bray, S.R., Weaver, D.S., Keseler, I.M., Karp, P.D., Morrison, J.H., and Covert, M.W. (2020). Simultaneous cross-evaluation of heterogeneous _E. coli_ datasets via mechanistic simulation. _Science_, 369, eaav3751. [Available here](https://science.sciencemag.org/content/369/6502/eaav3751.abstract)
