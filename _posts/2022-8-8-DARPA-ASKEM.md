@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Joining the Center for Reproducible Biomedical Modeling
+title: DARPA-ASKEM kickoff
 ---
 
-Eran has joined the [Center for Reproducible Biomedical Modeling (CRBM)](https://reproduciblebiomodels.org) as an investigator in Technology Research and Development for Online Simulation.
-The long-term goal of CRBM is to achieve comprehensive predictive models of biological systems, such as whole-cell models, which can guide precision medicine and synthetic biology. 
-Toward this long-term goal, the center is making models understandable, reproducible, reusable, and composable by (1) developing model building, annotation, and simulation tools and (2) combining these and other existing tools into a user-friendly reproducible modeling workflow.
+The [DARPA Automating Scientific Knowledge Extraction and Modeling (ASKEM)](https://www.darpa.mil/news-events/2021-12-06) program is kicking off this week. 
+ASKEM’s overall goal is to develop tools for agile creation and maintenance of complex models and simulators, to support decision making in diverse mission and scientific domains. 
+
+Eran is a Principal Investigator for ASKEM, as part of the Causal Inference Engine for Multiscale Simulations (CIEMSS) team.
+CIEMSS is developing software tools for answering prognostic and diagnostic questions about complex multi-scale/multi-model scenarios. 
+This includes a simulation-based inference engine that converts models into probabilistic programs in order to answer causal queries, and multi-fidelity inference algorithms for running ensembles of models at different levels of fidelity. 
