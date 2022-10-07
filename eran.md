@@ -20,12 +20,13 @@ He was previously a postdoctoral scientist at Stanford University’s Department
 in the [Stockwell lab](http://www.columbia.edu/cu/biology/StockwellLab/index/index.html), and 
 a visiting scholar in the [Program for Interdisciplinary Studies](https://www.ias.edu/ids) 
 at The Institute for Advanced Study in Princeton. He completed his PhD in Informatics (emphasis in complex systems) 
-and Cognitive Science at Indiana University, where he worked with [Randy Beer](https://rdbeer.pages.iu.edu) as part o
-f an NSF IGERT on the Dynamics of Brain-Body-Environment Systems in Behavior and Cognition.
+and Cognitive Science at Indiana University, where he worked with [Randy Beer](https://rdbeer.pages.iu.edu) as part of 
+an NSF IGERT on the Dynamics of Brain-Body-Environment Systems in Behavior and Cognition.
 
 
+### CV
 <object data="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Agmon_CV.pdf" type="application/pdf" width="900" height="900">
   <p>Your web browser doesn't have a PDF plugin.
   Instead you can <a href="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Agmon_CV.pdf">click here to
-  download the PDF file.</a></p>
+  download Eran's CV.</a></p>
 </object>
