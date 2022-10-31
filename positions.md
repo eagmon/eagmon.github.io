@@ -5,12 +5,12 @@ permalink: /positions/
 ---
 
 
-## Position: Postdoctoral Researcher
+## Postdoctoral Researcher Position
 
 ### Job Description:
 - We are looking for a passionate scientist that will build complex multi-scale models of cellular systems, and expand 
 the Vivarium ecosystem. This will involve working on one or more projects in single cell bacterial physiology, 
-microbiomes, synthetic cells, or the origins of life. 
+community structure in microbiomes, synthetic cells, or the origins of life. 
 
 ### Requirements:
 - PhD in Computational Biology, Bioengineering, Complex Systems, Physics, Computer Science, or related field
