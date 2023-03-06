@@ -4,7 +4,17 @@ title: Join Us
 permalink: /positions/
 ---
 
-## Postdoctoral Researcher Position
+## Graduate Researcher
+
+### Job Description:
+- We are looking for a graduate student interested in computational modeling of microbiomes -- this could include ocean microbiomes, soil microbiomes, and human gut microbiomes.
+
+### Availability: 
+- This position requires admission into UConn Health's Biomedical Sciences PhD program, or Biomedical Engineering Program. Contact Eran Agmon at 
+[agmon@uchc.edu](mailto:agmon@uchc.edu) for further details.
+
+
+## Postdoctoral Researcher
 
 ### Job Description:
 - We are looking for a passionate scientist that will build integrative multiscale models of cellular systems, expand 
