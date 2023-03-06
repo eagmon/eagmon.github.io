@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-The Agmon Lab is focused on developing comprehensive, multi-scale models of cells – from their molecular underpinnings, 
+The Agmon Lab is focused on developing comprehensive, multi-scale models of cells –- from their molecular underpinnings, 
 to their integrated functions, to the organismic level with many heterogeneous cells interacting in a shared environment. 
 The last two decades of biological research have generated abundant experimental data on the molecular composition, 
 spatial organization, and dynamics of thousands of cell types; however, we need new tools that can transform this data 
@@ -14,6 +14,12 @@ will need to combine *multi-source* and *multi-level* data with diverse, meaning
 mechanisms into integrative multi-scale simulations. These simulations will be used to interpret the input datasets, 
 make experimental predictions, identify medical solutions, and help us understand fundamental principles of biological 
 organization.
+
+To support this vision, the Agmon lab is building [Vivarium](https://vivarium-collective.github.io) –- an open-source 
+ecosystem of modular biological models. We have several projects that apply Vivarium in the domains of single cell 
+bacterial physiology, community interactions in microbiomes (both ocean microbiomes and gut microbiomes), 
+synthetic cells, and the origins of life.
+
 
 ### Research keywords
 computational systems biology, 
