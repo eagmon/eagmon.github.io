@@ -10,6 +10,7 @@ Affiliations at UConn: \
 [Biomedical Engineering Department](https://www.bme.uconn.edu) 
 
 Funding: \
+[Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org) \
 [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) \
 [DARPA-ASKEM](https://www.darpa.mil/news-events/2021-12-06) 
 
