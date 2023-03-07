@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C-CoMP inaugural faculty fellow
+title: C-CoMP faculty fellow
 ---
 
 I am honored to join the [C-CoMP team](https://ccomp-stc.org/about/c-comp-team/) as an inaugural faculty fellow!
