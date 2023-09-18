@@ -19,6 +19,9 @@
     display: flex;
     align-items: flex-start; /* Aligns the image and text to the top */
     margin-bottom: 30px; /* Adjust as needed for spacing between each person's entry */
+
+    @include mobile {
+        flex-direction: column;
 }
 
 .people-image {
@@ -27,6 +30,11 @@
     object-fit: cover;
     margin-right: 20px; /* Spacing between the image and the text */
     border-radius: 5px;
+
+    @include mobile {
+      width: 50px;  // adjusted size for mobile
+      height: 50px;  // adjusted size for mobile
+    }
 }
 
 .person-info {
@@ -197,8 +205,8 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
-    //width: 20px;  // adjusted size for mobile
-    //height: 20px;  // adjusted size for mobile
+    width: 10px;  // adjusted size for mobile
+    height: 10px;  // adjusted size for mobile
   }
 
   img {
@@ -309,24 +317,6 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-}
-
-
-/* Responsive styles for smaller screens */
-@media only screen and (max-width: 768px) {
-    .person {
-        flex-direction: column;
-    }
-    .people-image {
-        max-width: 40px;
-        height: auto;
-        margin-right: 0;
-        margin-bottom: 10px; /* Some spacing between the image and text on mobile */
-    }
-    .site-avatar img {
-        width: 10px;  /* adjust this value as needed */
-        height: auto;
-    }
 }
 
 
