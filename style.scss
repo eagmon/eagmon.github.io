@@ -9,6 +9,30 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+
+/**************/
+/* extra styles */
+/**************/
+
+/* Styling for People's layout */
+.person {
+    display: flex;
+    align-items: flex-start; /* Aligns the image and text to the top */
+    margin-bottom: 30px; /* Adjust as needed for spacing between each person's entry */
+}
+
+.people-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-right: 20px; /* Spacing between the image and the text */
+    border-radius: 5px;
+}
+
+.person-info {
+    flex-grow: 1; /* Allows this container to take the remaining space */
+}
+
 /**************/
 /* BASE RULES */
 /**************/

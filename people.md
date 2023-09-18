@@ -6,36 +6,37 @@ permalink: /people/
 
 ### Eran Agmon
 
-![Eran Agmon](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran.jpg)
-
+<div class="person">
+    ![Eran Agmon](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran.jpg){: .people-image }
+    <div class="person-info">
 Eran Agmon is an Assistant Professor at the Center for Cell Analysis and Modeling at the University of Connecticut Health 
-Center. He is the primary developer of Vivarium -- a software ecosystem for modular, multiscale modeling in computational 
-biology. This tool aims to enable labs to connect their data, models, and simulators to build more comprehensive models 
-of cells. Eran's research involves leveraging advanced software methods and combining multi-omics datasets with diverse 
+Center. Eran's research involves leveraging advanced software methods and combining multi-omics datasets with diverse 
 modeling methods to generate multi-scale simulations. He is interested in applying these approaches to build simulations 
 of cellular ecosystems that span molecular to multi-cellular and environmental scales.
+    </div>
+</div>
 
 ### Amin Boroomand
 
-![Amin Boroomand](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/amin.jpg)
+![Amin Boroomand](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/amin.jpg){: .people-image }
 
 Postdoc.
 
 ### Edwin Appiah
 
-![Edwin Appiah](/path/to/edwin-photo.jpg)
+![Edwin Appiah](/path/to/edwin-photo.jpg){: .people-image }
 
 Graduate Student.
 
 ### Jayde Schlesener
 
-![Jayde Schlesener](/path/to/jayde-photo.jpg)
+![Jayde Schlesener](/path/to/jayde-photo.jpg){: .people-image }
 
 Bridge-to-PhD student.
 
 ### Isha Mendiratta
 
-![Isha Mendiratta](/path/to/isha-photo.jpg)
+![Isha Mendiratta](/path/to/isha-photo.jpg){: .people-image }
 
 Undergraduate at UConn Storrs.
 
