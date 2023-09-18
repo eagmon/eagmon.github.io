@@ -33,6 +33,18 @@
     flex-grow: 1; /* Allows this container to take the remaining space */
 }
 
+@media only screen and (max-width: 768px) {
+    .person {
+        flex-direction: column;
+    }
+    .people-image {
+        max-width: 100%;
+        height: auto;
+        margin-right: 0;
+        margin-bottom: 10px; /* Some spacing between the image and text on mobile */
+    }
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -42,7 +54,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -197,10 +209,14 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
+    width: 50px;  // adjusted size for mobile
+    height: 50px;  // adjusted size for mobile
   }
 
   img {
     border-radius: 5px;
+    max-width: 100%;  // ensure the image scales within the container
+    height: auto;
   }
 }
 
