@@ -42,6 +42,18 @@
     flex-grow: 1; /* Allows this container to take the remaining space */
 }
 
+/* Styling for index page */
+.float-right {
+    float: right;
+    margin-left: 20px; /* Adds a space between the text and the image */
+}
+
+.content-wrap::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 /**************/
 /* BASE RULES */
 /**************/
