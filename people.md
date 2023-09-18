@@ -4,7 +4,7 @@ title: Our Team
 permalink: /people/
 ---
 
-### [Eran Agmon](https://scholar.google.com/citations?user=H1ZNVSYAAAAJ&hl=en)
+### [Eran Agmon](https://scholar.google.com/citations?user=H1ZNVSYAAAAJ&hl=en){:target="_blank"}
 
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran.jpg" alt="Eran Agmon" class="people-image" />
