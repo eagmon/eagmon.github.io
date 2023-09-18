@@ -4,38 +4,53 @@ title: Our Team
 permalink: /people/
 ---
 
-### [Eran Agmon](https://scholar.google.com/citations?user=H1ZNVSYAAAAJ&hl=en){:target="_blank"}
+### Eran Agmon
 
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran.jpg" alt="Eran Agmon" class="people-image" />
     <div class="person-info">
         Eran Agmon is an Assistant Professor at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center. Eran's research involves leveraging advanced software methods and combining multi-omics datasets with diverse modeling methods to generate multi-scale simulations. He is interested in applying these approaches to build simulations of cellular ecosystems that span molecular to multi-cellular and environmental scales.
+        <br/>
+        [<span>Google Scholar</span>](https://scholar.google.com/citations?user=H1ZNVSYAAAAJ&hl=en){:target="_blank"}
     </div>
 </div>
 
 ### Amin Boroomand
 
-![Amin Boroomand](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/amin.jpg){: .people-image }
-
-Postdoc.
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/amin.jpg" alt="Amin Boroomand" class="people-image" />
+    <div class="person-info">
+        Postdoc.
+    </div>
+</div>
 
 ### Edwin Appiah
 
-![Edwin Appiah](/path/to/edwin-photo.jpg){: .people-image }
-
-Graduate Student.
+<div class="person">
+    <img src="/path/to/edwin-photo.jpg" alt="Edwin Appiah" class="people-image" />
+    <div class="person-info">
+        Graduate Student.
+    </div>
+</div>
 
 ### Jayde Schlesener
 
-![Jayde Schlesener](/path/to/jayde-photo.jpg){: .people-image }
+<div class="person">
+    <img src="/path/to/jayde-photo.jpg" alt="Jayde Schlesener" class="people-image" />
+    <div class="person-info">
+        Bridge-to-PhD student.
+    </div>
+</div>
 
-Bridge-to-PhD student.
 
 ### Isha Mendiratta
 
-![Isha Mendiratta](/path/to/isha-photo.jpg){: .people-image }
-
-Undergraduate at UConn Storrs.
+<div class="person">
+    <img src="/path/to/isha-photo.jpg" alt="Isha Mendiratta" class="people-image" />
+    <div class="person-info">
+        Undergraduate at UConn Storrs.
+    </div>
+</div>
 
 
 ## The Vivarium lab is hiring! Contact Eran Agmon at [agmon@uchc.edu](mailto:agmon@uchc.edu) for further details.  
