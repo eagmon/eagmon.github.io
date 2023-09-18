@@ -2,9 +2,10 @@
 layout: default
 ---
 
-<div class="content-wrap">
+<div style="overflow: auto;">
     <img class="float-right" src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/multiscale_network.png" alt="MultiscaleNetwork" width="500" />
-
+    
+    <p>
     Our lab focuses on building comprehensive, multi-scale models of cells –- from their molecular underpinnings, 
     to their integrated functions, to the organismic level with many heterogeneous cells interacting in a shared environment. 
     The last two decades of biological research have generated abundant experimental data on the molecular composition, 
@@ -15,11 +16,14 @@ layout: default
     mechanisms into integrative multi-scale simulations. These simulations will be used to interpret the input datasets, 
     make experimental predictions, identify medical solutions, and help us understand fundamental principles of biological 
     organization.
+    </p>
 
-    To support this vision, we are building [Vivarium](https://vivarium-collective.github.io) –- an open-source 
+    <p>
+    To support this vision, we are building <a href="https://vivarium-collective.github.io">Vivarium</a> –- an open-source 
     ecosystem of modular biological models. We have several projects that apply Vivarium in the domains of single cell 
     bacterial physiology, community interactions in microbiomes (both ocean microbiomes and gut microbiomes), 
     synthetic cells, and the origins of life.
+    </p>
 </div>
 
 ### Diversity, Equity, and Inclusion
