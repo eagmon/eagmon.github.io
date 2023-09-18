@@ -1,14 +1,20 @@
-- authors: 'Skalnik, C. J., Cheah, S. Y., Yang, M. Y., Wolff, M. B., Spangler, R. K., ... Agmon, E., & Covert, M. W.'
+- authors: 'Skalnik, C.J., Cheah, S.Y., Yang, M.Y., Wolff, M.B., Spangler, R.K., Talman, L., Morrison, J.H., Peirce, S.M., Agmon, E., and Covert, M.W.'
   year: '2023'
   title: 'Whole-cell modeling of E. coli colonies enables quantification of single-cell heterogeneity in antibiotic responses.'
   journal: 'PLOS Computational Biology'
   link: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011232'
 
-- authors: 'Johnson, G. T., Agmon, E., Akamatsu, M., Lundberg, E., Lyons, B., Ouyang, W., ... & Horwitz, R.'
+- authors: 'Johnson, G.T., Agmon, E., Akamatsu, M., Lundberg, E., Lyons, B., Ouyang, W., Quintero-Carmona, O.A., Riel-Mehan, M., Rafelski, S., & Horwitz, R.'
   year: '2023'
   title: 'Building the next generation of virtual cells to understand cellular biology.'
   journal: 'Biophysical Journal'
   link: 'https://www.cell.com/biophysj/pdf/S0006-3495(23)00236-9.pdf'
+
+- authors: 'Shaikh, Bilal, Lucian P. Smith, Dan Vasilescu, Gnaneswara Marupilla, Michael Wilson, Eran Agmon, Henry Agnew et al.'
+  year: '2022'
+  title: 'BioSimulators: a central registry of simulation engines and services for recommending specific tools.'
+  journal: 'Nucleic acids research'
+  link: 'https://academic.oup.com/nar/article/50/W1/W108/6582178'
 
 - authors: 'Agmon, E., Spangler, R.K., Skalnik, C.J., Poole, W., Morrison, J.H., Peirce, S.M., and Covert, M.W.'
   year: '2022'
@@ -16,7 +22,7 @@
   journal: 'Bioinformatics'
   link: 'https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac049/6522109?login=true'
 
-- authors: 'Covert, M. W., Gillies, T. E., Kudo, T., & Agmon, E.'
+- authors: 'Covert, M.W., Gillies, T. E., Kudo, T., & Agmon, E.'
   year: '2021'
   title: 'A forecast for large-scale, predictive biology: Lessons from meteorology.'
   journal: 'Cell systems'
@@ -33,6 +39,12 @@
   title: 'Simultaneous cross-evaluation of heterogeneous _E. coli_ datasets via mechanistic simulation.'
   journal: 'Science'
   link: 'https://science.sciencemag.org/content/369/6502/eaav3751.abstract'
+
+- authors: 'Talman, L., Agmon, E., Peirce, S.M., and Covert, M.W.'
+  year: '2019'
+  title: 'Multiscale models of infection.'
+  journal: 'Current Opinion in Biomedical Engineering'
+  link: 'https://www.sciencedirect.com/science/article/abs/pii/S2468451119300509'
 
 - authors: 'Agmon, E., Solon, J., Bassereau, P., and Stockwell, B.R.'
   year: '2018'
