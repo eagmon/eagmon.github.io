@@ -28,4 +28,5 @@ cell biology,
 machine learning, 
 complex adaptive systems 
 
-![MultiscaleNetwork](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/multiscale_network.png)
+<img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/multiscale_network.png" alt="MultiscaleNetwork" width="300" />
+
