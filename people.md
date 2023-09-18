@@ -6,17 +6,17 @@ permalink: /people/
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran.jpg" alt="Eran Agmon" class="people-image" />
     <div class="person-info">
-        **Eran Agmon**<br/>
+        <strong>Eran Agmon</strong><br/>
         Eran Agmon is an Assistant Professor at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center. Eran's research involves leveraging advanced software methods and combining multi-omics datasets with diverse modeling methods to generate multi-scale simulations. He is interested in applying these approaches to build simulations of cellular ecosystems that span molecular to multi-cellular and environmental scales.
         <br/>
-        [<span>Google Scholar</span>](https://scholar.google.com/citations?user=H1ZNVSYAAAAJ&hl=en){:target="_blank"}
+        <a href="https://scholar.google.com/citations?user=H1ZNVSYAAAAJ&hl=en" target="_blank">Google Scholar</a>
     </div>
 </div>
 
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/amin.jpg" alt="Amin Boroomand" class="people-image" />
     <div class="person-info">
-        **Amin Boroomand**<br/>
+        <strong>Amin Boroomand</strong><br/>
         Postdoc.
     </div>
 </div>
@@ -24,7 +24,7 @@ permalink: /people/
 <div class="person">
     <img src="/path/to/edwin-photo.jpg" alt="Edwin Appiah" class="people-image" />
     <div class="person-info">
-        **Edwin Appiah**<br/>
+        <strong>Edwin Appiah</strong><br/>
         Graduate Student.
     </div>
 </div>
@@ -32,7 +32,7 @@ permalink: /people/
 <div class="person">
     <img src="/path/to/jayde-photo.jpg" alt="Jayde Schlesener" class="people-image" />
     <div class="person-info">
-        **Jayde Schlesener**<br/>
+        <strong>Jayde Schlesener</strong><br/>
         Bridge-to-PhD student.
     </div>
 </div>
@@ -40,7 +40,7 @@ permalink: /people/
 <div class="person">
     <img src="/path/to/isha-photo.jpg" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
-        **Isha Mendiratta**<br/>
+        <strong>Isha Mendiratta</strong><br/>
         Undergraduate at UConn Storrs.
     </div>
 </div>
