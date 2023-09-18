@@ -21,7 +21,8 @@
     margin-bottom: 30px; /* Adjust as needed for spacing between each person's entry */
 
     @include mobile {
-        flex-direction: column;
+       flex-direction: column;
+    }
 }
 
 .people-image {
