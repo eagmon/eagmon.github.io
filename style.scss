@@ -10,9 +10,9 @@
 // Syntax highlighting @import is at the bottom of this file
 
 
-/**************/
+/****************/
 /* extra styles */
-/**************/
+/****************/
 
 /* Styling for People's layout */
 .person {
@@ -31,18 +31,6 @@
 
 .person-info {
     flex-grow: 1; /* Allows this container to take the remaining space */
-}
-
-@media only screen and (max-width: 768px) {
-    .person {
-        flex-direction: column;
-    }
-    .people-image {
-        max-width: 100%;
-        height: auto;
-        margin-right: 0;
-        margin-bottom: 10px; /* Some spacing between the image and text on mobile */
-    }
 }
 
 /**************/
@@ -209,14 +197,14 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
-    width: 20px;  // adjusted size for mobile
-    height: 20px;  // adjusted size for mobile
+    //width: 20px;  // adjusted size for mobile
+    //height: 20px;  // adjusted size for mobile
   }
 
   img {
     border-radius: 5px;
-    max-width: 100%;  // ensure the image scales within the container
-    height: auto;
+    //max-width: 100%;  // ensure the image scales within the container
+    //height: auto;
   }
 }
 
@@ -322,6 +310,25 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+
+/* Responsive styles for smaller screens */
+@media only screen and (max-width: 768px) {
+    .person {
+        flex-direction: column;
+    }
+    .people-image {
+        max-width: 100%;
+        height: auto;
+        margin-right: 0;
+        margin-bottom: 10px; /* Some spacing between the image and text on mobile */
+    }
+    .site-avatar img {
+        width: 20px;  /* adjust this value as needed */
+        height: auto;
+    }
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
