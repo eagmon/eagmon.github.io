@@ -23,23 +23,27 @@ layout: default
 </div>
 
 ### Diversity, Equity, and Inclusion
+
 Our lab is committed to fostering an inclusive environment where every individual feels valued and supported. We believe 
 that the diversity of experiences, perspectives, and backgrounds enhances our team and drives innovative research. 
 All members, regardless of race, gender, sexual orientation, religion, age, or disability, are treated with respect and 
 encouraged to contribute their unique insights. We actively seek to increase diversity and inclusivity, and we welcome 
 collaborations that align with these values.
 
-### Affiliations at UConn: \
+### Affiliations at UConn: 
+
 [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling/) \
 [Department of Molecular Biology and Biophysics](https://health.uconn.edu/molecular-biology-biophysics/) \
 [Biomedical Engineering Department](https://www.bme.uconn.edu) 
 
-### Collaborations: \
+### Collaborations: 
+
 [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org) \
 [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) \
 [DARPA-ASKEM](https://www.darpa.mil/news-events/2021-12-06) 
 
-### Vivarium: \
+### Vivarium: 
+
 [vivarium-core](https://github.com/vivarium-collective/vivarium-core) \
 [Vivarium Collective](https://vivarium-collective.github.io) \
 [Vivarium Documentation](https://vivarium-core.readthedocs.io/en/latest/) 
