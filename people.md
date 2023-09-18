@@ -3,71 +3,62 @@ layout: page
 title: Our Team
 permalink: /people/
 ---
-
-### Eran Agmon
-
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran.jpg" alt="Eran Agmon" class="people-image" />
     <div class="person-info">
+        **Eran Agmon**<br/>
         Eran Agmon is an Assistant Professor at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center. Eran's research involves leveraging advanced software methods and combining multi-omics datasets with diverse modeling methods to generate multi-scale simulations. He is interested in applying these approaches to build simulations of cellular ecosystems that span molecular to multi-cellular and environmental scales.
         <br/>
         [<span>Google Scholar</span>](https://scholar.google.com/citations?user=H1ZNVSYAAAAJ&hl=en){:target="_blank"}
     </div>
 </div>
 
-### Amin Boroomand
-
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/amin.jpg" alt="Amin Boroomand" class="people-image" />
     <div class="person-info">
+        **Amin Boroomand**<br/>
         Postdoc.
     </div>
 </div>
 
-### Edwin Appiah
-
 <div class="person">
     <img src="/path/to/edwin-photo.jpg" alt="Edwin Appiah" class="people-image" />
     <div class="person-info">
+        **Edwin Appiah**<br/>
         Graduate Student.
     </div>
 </div>
 
-### Jayde Schlesener
-
 <div class="person">
     <img src="/path/to/jayde-photo.jpg" alt="Jayde Schlesener" class="people-image" />
     <div class="person-info">
+        **Jayde Schlesener**<br/>
         Bridge-to-PhD student.
     </div>
 </div>
 
-
-### Isha Mendiratta
-
 <div class="person">
     <img src="/path/to/isha-photo.jpg" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
+        **Isha Mendiratta**<br/>
         Undergraduate at UConn Storrs.
     </div>
 </div>
 
 
-## The Vivarium lab is hiring! Contact Eran Agmon at [agmon@uchc.edu](mailto:agmon@uchc.edu) for further details.  
+## The Vivarium lab is hiring! Contact Eran Agmon at [agmon@uchc.edu](mailto:agmon@uchc.edu) for details.  
 
 ### Graduate Researcher
 - We are looking for a graduate student interested in computational modeling of microbiomes -- this could include ocean 
 microbiomes, soil microbiomes, and human gut microbiomes.
 - This position requires admission into UConn Health's Biomedical Sciences PhD program, or Biomedical Engineering Program.
 
-
 ### Postdoctoral Researcher
 - We are looking for a passionate scientist that will build integrative multiscale models of cellular systems, expand 
 the [Vivarium ecosystem](https://vivarium-collective.github.io), and publish research articles. This will involve 
 working on one or more projects in whole-cell modeling (primarily E. coli), community structure in microbiomes, the 
 design of synthetic cells, or the origins of life. 
-
-#### Requirements:
-- PhD in Computational Biology, Bioengineering, Complex Systems, Physics, Computer Science, or related field
-- Experience programming in Python
-- Motivated and collaborative personality
+- Requirements:
+    - PhD in Computational Biology, Bioengineering, Complex Systems, Physics, Computer Science, or related field
+    - Experience programming in Python
+    - Motivated and collaborative personality
