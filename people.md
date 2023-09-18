@@ -7,7 +7,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran.jpg" alt="Eran Agmon" class="people-image" />
     <div class="person-info">
         <strong>Eran Agmon</strong><br/>
-        Eran Agmon is an Assistant Professor at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center. Eran's research involves leveraging advanced software methods and combining multi-omics datasets with diverse modeling methods to generate multi-scale simulations. He is interested in applying these approaches to build simulations of cellular ecosystems that span molecular to multi-cellular and environmental scales.
+        Eran is an Assistant Professor at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center. His research involves leveraging software methods to combine multi-omics datasets and diverse modeling methods to generate integrative multi-scale simulations of cellular ecosystems that span molecular to multi-cellular and environmental scales.
         <br/>
         <a href="https://scholar.google.com/citations?user=H1ZNVSYAAAAJ&hl=en" target="_blank">Google Scholar</a>
     </div>
