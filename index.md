@@ -33,7 +33,7 @@ layout: default
 [Biomedical Engineering Department](https://www.bme.uconn.edu) 
 
 
-### Vivarium: 
+### About Vivarium: 
 
 [vivarium-core](https://github.com/vivarium-collective/vivarium-core) \
 [Vivarium Collective](https://vivarium-collective.github.io) \
