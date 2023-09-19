@@ -32,11 +32,6 @@ layout: default
 [Department of Molecular Biology and Biophysics](https://health.uconn.edu/molecular-biology-biophysics/) \
 [Biomedical Engineering Department](https://www.bme.uconn.edu) 
 
-### Collaborations: 
-
-[Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org) \
-[Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) \
-[DARPA-ASKEM](https://www.darpa.mil/news-events/2021-12-06) 
 
 ### Vivarium: 
 
