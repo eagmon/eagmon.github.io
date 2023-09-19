@@ -19,3 +19,9 @@ modeling (primarily E. coli), community structure in microbiomes, the design of 
     - PhD in Computational Biology, Bioengineering, Complex Systems, Physics, Computer Science, or related field
     - Experience programming in Python
     - Motivated and collaborative personality
+
+### Diversity, Equity, and Inclusion
+Our lab is committed to fostering an inclusive environment where every individual feels valued. We believe that the 
+diversity of experiences, perspectives, and backgrounds enhances our team and drives innovative research. All members 
+are treated with respect and encouraged to contribute their unique insights. We actively seek to increase diversity and 
+inclusivity, and we welcome collaborations that align with these values.

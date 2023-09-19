@@ -26,14 +26,6 @@ layout: default
     </p>
 </div>
 
-### Diversity, Equity, and Inclusion
-
-Our lab is committed to fostering an inclusive environment where every individual feels valued and supported. We believe 
-that the diversity of experiences, perspectives, and backgrounds enhances our team and drives innovative research. 
-All members, regardless of race, gender, sexual orientation, religion, age, or disability, are treated with respect and 
-encouraged to contribute their unique insights. We actively seek to increase diversity and inclusivity, and we welcome 
-collaborations that align with these values.
-
 ### Affiliations at UConn: 
 
 [Center for Cell Analysis and Modeling](https://health.uconn.edu/cell-analysis-modeling/) \
