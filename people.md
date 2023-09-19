@@ -49,9 +49,9 @@ permalink: /people/
 
 
 ## Past and Ongoing Collaborations
-- [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org) \
-- [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) \
-- [DARPA-ASKEM](https://www.darpa.mil/news-events/2021-12-06) \
-- [Markus Covert](https://www.covert.stanford.edu) \
+- [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org) 
+- [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) 
+- [DARPA-ASKEM](https://www.darpa.mil/news-events/2021-12-06) 
+- [Markus Covert](https://www.covert.stanford.edu) 
 
 ## The Vivarium lab is hiring! [see positions](https://eagmon.github.io/jobs/)
