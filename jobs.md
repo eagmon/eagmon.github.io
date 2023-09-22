@@ -4,7 +4,7 @@ title: Join Us
 permalink: /jobs/
 ---
 
-The Vivarium lab is hiring! Contact Eran Agmon at [agmon@uchc.edu](mailto:agmon@uchc.edu) for details.  
+The Vivarium lab is hiring! Email Eran Agmon at [agmon@uchc.edu](mailto:agmon@uchc.edu) for details, please include your CV if available.  
 
 ### Graduate Researcher
 - We are looking for a graduate student interested in computational modeling of microbiomes -- this could include ocean 
