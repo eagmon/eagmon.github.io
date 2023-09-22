@@ -24,7 +24,7 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="/path/to/edwin-photo.jpg" alt="Edwin Appiah" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe1.png" alt="Edwin Appiah" class="people-image" />
     <div class="person-info">
         <strong>Edwin Appiah, PhD Student (Biomedical Sciences)</strong><br/>
         About Edwin.
@@ -32,7 +32,7 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="/path/to/jayde-photo.jpg" alt="Jayde Schlesener" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe2.png" alt="Jayde Schlesener" class="people-image" />
     <div class="person-info">
         <strong>Jayde Schlesener, Bridge-to-PhD student</strong><br/>
         About Jayde.
@@ -40,7 +40,7 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="/path/to/isha-photo.jpg" alt="Isha Mendiratta" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe3.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Isha Mendiratta, Undergraduate researcher</strong><br/>
         Isha is an undergraduate at UConn Storrs.
