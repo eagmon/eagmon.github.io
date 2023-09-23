@@ -24,7 +24,7 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe1.png" alt="Edwin Appiah" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist1.png" alt="Edwin Appiah" class="people-image" />
     <div class="person-info">
         <strong>Edwin Appiah, PhD Student (Biomedical Sciences)</strong><br/>
         About Edwin.
@@ -32,15 +32,15 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe2.png" alt="Jayde Schlesener" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/jayde.png" alt="Jayde Schlesener" class="people-image" />
     <div class="person-info">
         <strong>Jayde Schlesener, Bridge-to-PhD student</strong><br/>
-        About Jayde.
+        Jayde is a C-CoMP research fellow and bridge-to-PhD student through Woods Hole Oceanographic Institute working at the Agmon lab. Here she hopes to gain research experience analyzing data from marine microbes and their involvement in the oceanic biological pump. She graduated with her B.S. in Microbiology with a minor in Chemistry from the University of Kansas and worked in a freshwater ecology lab looking at biogeochemical processes in intermittent streams during her undergrad. Jayde has plans to attend graduate school following her research fellowship continuing her work on marine environments.
     </div>
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe3.png" alt="Isha Mendiratta" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist3.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Isha Mendiratta, Undergraduate researcher</strong><br/>
         Isha is an undergraduate at UConn Storrs.
