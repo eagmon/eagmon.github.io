@@ -7,8 +7,8 @@ layout: default
     
     <p>
     Our lab focuses on building comprehensive, multi-scale models of cells –- from their molecular underpinnings, 
-    to their integrated functions, to the organismic level with many heterogeneous cells interacting in a shared environment. 
-    The last two decades of biological research have generated abundant experimental data on the molecular composition, 
+    to their integrated functions, to the population level with many heterogeneous cells interacting in a shared environment. 
+    Research in biology has generated abundant experimental data on the molecular composition, 
     spatial organization, and dynamics of thousands of cell types; however, we need new tools that can transform this data 
     into predictive models that can be used for scientific discovery. Rather than building isolated models that capture a 
     narrow range of cellular behavior with a single class of representation, the next generation of computational models 
@@ -21,8 +21,7 @@ layout: default
     <p>
     To support this vision, we are building <a href="https://vivarium-collective.github.io">Vivarium</a> –- an open-source 
     ecosystem of modular biological models. We have several projects that apply Vivarium in the domains of single cell 
-    bacterial physiology, community interactions in microbiomes (both ocean microbiomes and gut microbiomes), 
-    synthetic cells, and the origins of life.
+    bacterial physiology, community interactions in microbiomes, synthetic cells, and the origins of life.
     </p>
 </div>
 
