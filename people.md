@@ -27,7 +27,8 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/edwin.png" alt="Edwin Appiah" class="people-image" />
     <div class="person-info">
         <strong>Edwin Appiah, PhD Student (Biomedical Sciences)</strong><br/>
-        About Edwin.
+        Prior Education: Bsc. Agricultural Biotechnology (KNUST, Ghana), Mphil. Biodata Analytics and Computational Genomics (KNUST, Ghana)
+Research interest: Edwin is a PhD student in Biomedical Science at UConn health. Before joining UConn, Edwin studied how the gastric microbiome influences gastric carcinogenesis focusing on bacterial diversity, co-occurrence pattern and predictive models, which heightened his research interest in microbiome and health. Currently, Edwin continues to explore his research interest in microbiome at the Agmon lab, with a focus on building multi-scale computational models for the gut microbiome. Edwin loves to play or watch soccer during his leisure time.
     </div>
 </div>
 
