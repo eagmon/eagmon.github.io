@@ -12,7 +12,7 @@ microbiomes, soil microbiomes, and human gut microbiomes.
 - This position requires admission into UConn Health's Biomedical Sciences PhD program, or Biomedical Engineering Program.
 
 ### Postdoctoral Researcher
-[Job Post PDF](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Postdoc_Agmon_lab.pdf)
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Postdoc_Agmon_lab.pdf&embedded=true" style="width:100%; height:500px;" frameborder="0">This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Postdoc_Agmon_lab.pdf">Download PDF</a>.</iframe>
 
 - We are looking for a passionate scientist that will build integrative multiscale models of cellular systems, expand 
 the Vivarium ecosystem, and publish research articles. This will involve working on one or more projects in whole-cell 
