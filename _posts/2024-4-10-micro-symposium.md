@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agmon Lab 2023
+title: Microbiology Symposium at UConn
 ---
 
 Eran And Edwin attended the [8th Annual Distinguished Microbiologist Lecture and Microbiology Symposium](https://mcb.uconn.edu/microbiology-symposium/)
