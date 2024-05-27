@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="overflow: auto;">
-    <img class="float-right" src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/multiscale_network.png" alt="MultiscaleNetwork" width="500" />
+    <img class="float-right" src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/multiscale_network.png" alt="MultiscaleNetwork" width="400" />
     
     <p>
     Our lab focuses on building comprehensive, multi-scale models of cells –- from their molecular underpinnings, 
