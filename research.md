@@ -5,17 +5,15 @@ permalink: /research/
 ---
 
 #### Compositional Systems Biology
-<div style="display: flex; align-items: center;">
-    <p>Our approach in compositional systems biology aims to build a scalable, open-ended framework for integrating data and submodels into comprehensive, multiscale models. This approach emphasizes the interfaces and interconnections between different subsystems, focusing on the following key requirements:</p>
-    <ul>
-      <li><strong>Composition Framework</strong>: Establishing standardized interfaces and orchestration patterns for integrative multiscale simulations.</li>
-      <li><strong>Composition Schema</strong>: Providing robust, consistent formats for data and model integration to ensure seamless communication and control flows.</li>
-      <li><strong>Compositional Software</strong>: Developing an open-source ecosystem of modular software that adheres to the standardized schema, facilitating flexible addition, removal, and modification of components.</li>
-      <li><strong>Biological Schema</strong>: Creating reusable definitions for systems such as cellular interfaces and molecular mechanisms, enabling detailed models of biological processes.</li>
-      <li><strong>Scientific Collectives</strong>: Fostering collaboration among researchers to build and share knowledge through integrative multiscale models, enhancing data and model integration across scientific consortia.</li>
-    </ul>
-    <p>By emphasizing the composition of models, software, schemas, and research efforts, this framework facilitates the integration of diverse biological data and models, ensuring scalability and continuous improvement with new scientific contributions.</p>
-</div>
+<p>Our approach in compositional systems biology aims to build a scalable, open-ended framework for integrating data and submodels into comprehensive, multiscale models. This approach emphasizes the interfaces and interconnections between different subsystems, focusing on the following key requirements:</p>
+<ul>
+  <li><strong>Composition Framework</strong>: Establishing standardized interfaces and orchestration patterns for integrative multiscale simulations.</li>
+  <li><strong>Composition Schema</strong>: Providing robust, consistent formats for data and model integration to ensure seamless communication and control flows.</li>
+  <li><strong>Compositional Software</strong>: Developing an open-source ecosystem of modular software that adheres to the standardized schema, facilitating flexible addition, removal, and modification of components.</li>
+  <li><strong>Biological Schema</strong>: Creating reusable definitions for systems such as cellular interfaces and molecular mechanisms, enabling detailed models of biological processes.</li>
+  <li><strong>Scientific Collectives</strong>: Fostering collaboration among researchers to build and share knowledge through integrative multiscale models, enhancing data and model integration across scientific consortia.</li>
+</ul>
+<p>By emphasizing the composition of models, software, schemas, and research efforts, this framework facilitates the integration of diverse biological data and models, ensuring scalability and continuous improvement with new scientific contributions.</p>
 
 #### Ocean Microbiome
 <div style="display: flex; align-items: center;">
