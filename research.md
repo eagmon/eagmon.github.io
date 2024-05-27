@@ -6,7 +6,6 @@ permalink: /research/
 
 #### Compositional Systems Biology
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
     <p>Our approach in compositional systems biology aims to build a scalable, open-ended framework for integrating data and submodels into comprehensive, multiscale models. This approach emphasizes the interfaces and interconnections between different subsystems, focusing on the following key requirements:</p>
     <ul>
       <li><strong>Composition Framework</strong>: Establishing standardized interfaces and orchestration patterns for integrative multiscale simulations.</li>
@@ -16,10 +15,6 @@ permalink: /research/
       <li><strong>Scientific Collectives</strong>: Fostering collaboration among researchers to build and share knowledge through integrative multiscale models, enhancing data and model integration across scientific consortia.</li>
     </ul>
     <p>By emphasizing the composition of models, software, schemas, and research efforts, this framework facilitates the integration of diverse biological data and models, ensuring scalability and continuous improvement with new scientific contributions.</p>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/composesysbio.png" alt="Compositional Systems Biology">
-  </div>
 </div>
 
 #### Ocean Microbiome
