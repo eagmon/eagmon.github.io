@@ -4,6 +4,8 @@ title: Our Team
 permalink: /people/
 ---
 
+<img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/agmon_lab_2024.jpg" alt="Lab Photo" />
+
 
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran2024.JPG" alt="Eran Agmon" class="people-image" />
