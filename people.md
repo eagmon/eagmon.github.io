@@ -28,7 +28,7 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Amin Boroomand" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Amin Boroomand" class="people-image" />
     <div class="person-info">
         <strong>Arnab Mutsuddy, Postdoc</strong><br/>
         About Arnab
@@ -66,6 +66,14 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
     <div class="person-info">
         <strong>Colin Slavin, Undergraduate researcher</strong><br/>
         Colin is an undergraduate at UConn Storrs.
+    </div>
+</div>
+
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
+    <div class="person-info">
+        <strong>Alex Patrie, Software Developer</strong><br/>
+        Alex is developing the Biosimulations framework.
     </div>
 </div>
 
