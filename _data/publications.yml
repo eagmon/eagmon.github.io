@@ -1,3 +1,15 @@
+- authors: 'Hickey, J.W., Agmon, E., Horowitz, N., Tan, T.-K., Lamore, M., Sunwoo, J.B., Covert, M.W., and Nolan, G.P.'
+  year: '2024'
+  title: 'Integrating multiplexed imaging and multiscale modeling identifies tumor phenotype conversion as a critical component of therapeutic T cell efficacy.'
+  journal: 'Cell Systems'
+  link: 'https://www.cell.com/cell-systems/fulltext/S2405-4712(24)00089-9'
+
+- authors: 'Vegesna, K.R., Mogre, S.S., Yu, J., Lyons, B., Raghunathan, A., Agmon, E., Akamatsu, M., and Johnson, G.T.'
+  year: '2024'
+  title: 'Comparing spatial biophysical simulations across scales and methods.'
+  journal: 'Biophysical Journal'
+  link: 'https://www.cell.com/biophysj/abstract/S0006-3495(23)01607-7'
+
 - authors: 'Skalnik, C.J., Cheah, S.Y., Yang, M.Y., Wolff, M.B., Spangler, R.K., Talman, L., Morrison, J.H., Peirce, S.M., Agmon, E., and Covert, M.W.'
   year: '2023'
   title: 'Whole-cell modeling of E. coli colonies enables quantification of single-cell heterogeneity in antibiotic responses.'
