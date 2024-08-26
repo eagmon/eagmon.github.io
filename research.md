@@ -53,11 +53,11 @@ permalink: /research/
 #### Virtual Tissue Framework
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>Our virtual tissue research focuses on developing a general framework for virtual tissue simulations. This framework supports a standard format and integrates various data types and simulation methods, allowing for:</p>
+    <p>Our virtual tissue research focuses on developing a general framework for virtual tissue simulations, especially gut epithelium and cells in the gut tissue. This framework supports a standard format and integrates various data types and simulation methods, allowing for:</p>
     <ul>
-      <li><strong>Multiscale Data Integration</strong>: Synthesizing high-dimensional biological data, from molecular to organ scales, into cohesive and dynamic models.</li>
+      <li><strong>Multiscale Data Integration</strong>: Synthesizig high-dimensional biological data, from molnecular to organ scales, into cohesive and dynamic models.</li>
       <li><strong>Dynamic Functional Models</strong>: Transforming static spatial maps into functional simulations by adding layers of dynamic biological mechanisms, such as mucus production and metabolic interactions.</li>
-      <li><strong>Interdisciplinary Applications</strong>: Facilitating research in regenerative medicine, cancer research, and developmental biology by providing a versatile tool for simulating complex tissue interactions and functions.</li>
+      <li><strong>Interdisciplinary Applications</strong>: Facilitating research on interactions between tissue morphologies and bacterial communities, looking for factors of host-microbiome dynamics.</li>
     </ul>
   </div>
   <div style="flex: 1;">
