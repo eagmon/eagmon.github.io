@@ -5,7 +5,6 @@ permalink: /research/
 ---
 
 #### Compositional Systems Biology 
-[See latest preprint on arXiv](https://arxiv.org/abs/2408.00942)
 <p>Our approach in compositional systems biology aims to build a scalable, open-ended framework for integrating data and submodels into comprehensive, multiscale models. This approach emphasizes the interfaces and interconnections between different subsystems, focusing on the following key requirements:</p>
 <ul>
   <li><strong>Composition Framework</strong>: Establishing standardized interfaces and orchestration patterns for integrative multiscale simulations.</li>
