@@ -1,3 +1,9 @@
+- authors: 'Agmon, E.'
+  year: '2024'
+  title: 'Prelude to a Compositional Systems Biology.'
+  journal: 'arXiv'
+  link: 'https://arxiv.org/abs/2408.00942'
+
 - authors: 'Hickey, J.W., Agmon, E., Horowitz, N., Tan, T.-K., Lamore, M., Sunwoo, J.B., Covert, M.W., and Nolan, G.P.'
   year: '2024'
   title: 'Integrating multiplexed imaging and multiscale modeling identifies tumor phenotype conversion as a critical component of therapeutic T cell efficacy.'
