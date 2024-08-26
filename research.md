@@ -68,5 +68,7 @@ permalink: /research/
 ### Collaborations
 - [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org) 
 - [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) 
-- [DARPA-ASKEM](https://www.darpa.mil/news-events/2021-12-06) 
 - [Covert lab E. coli Model](https://www.covert.stanford.edu) 
+- [ALife meets BLife](https://alifemeetsblife.org)
+- [Build-A-Cell](https://www.buildacell.org)
+
