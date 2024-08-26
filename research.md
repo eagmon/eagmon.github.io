@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 #### Compositional Systems Biology 
-[See latest paper on arXiv](https://arxiv.org/abs/2408.00942)
+[See latest preprint on arXiv](https://arxiv.org/abs/2408.00942)
 <p>Our approach in compositional systems biology aims to build a scalable, open-ended framework for integrating data and submodels into comprehensive, multiscale models. This approach emphasizes the interfaces and interconnections between different subsystems, focusing on the following key requirements:</p>
 <ul>
   <li><strong>Composition Framework</strong>: Establishing standardized interfaces and orchestration patterns for integrative multiscale simulations.</li>
@@ -69,4 +69,4 @@ permalink: /research/
 - [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org) 
 - [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) 
 - [DARPA-ASKEM](https://www.darpa.mil/news-events/2021-12-06) 
-- [Covert E. coli Model](https://www.covert.stanford.edu) 
+- [Covert lab E. coli Model](https://www.covert.stanford.edu) 
