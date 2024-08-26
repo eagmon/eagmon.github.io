@@ -58,6 +58,12 @@
   journal: 'Science'
   link: 'https://science.sciencemag.org/content/369/6502/eaav3751.abstract'
 
+- authors: 'Agmon, E., and Covert, M.W.'
+  year: '2020'
+  title: 'Building whole-cell computational models to predict cellular phenotypes and accelerate discovery.'
+  journal: 'Computational Modeling: From Chemistry To Materials To Biology-Proceedings Of The 25th Solvay Conference On Chemistry'
+  link: 'https://books.google.com/books?hl=en&lr=&id=0vMTEAAAQBAJ&oi=fnd&pg=PA315&dq=info:9ndgCgPIOK8J:scholar.google.com&ots=X7uNPFv8E5&sig=pZc8Rfgkk3J3tPwIHOAXbelRsbA#v=onepage&q&f=false'
+
 - authors: 'Talman, L., Agmon, E., Peirce, S.M., and Covert, M.W.'
   year: '2019'
   title: 'Multiscale models of infection.'
