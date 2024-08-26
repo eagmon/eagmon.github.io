@@ -70,5 +70,5 @@ permalink: /research/
 - [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) 
 - [Covert lab E. coli Model](https://www.covert.stanford.edu) 
 - [ALife meets BLife](https://alifemeetsblife.org)
-- [Build-A-Cell](https://www.buildacell.org)
+- [Build-A-Cell in silico cell](https://docs.google.com/document/d/1ZITIeScV7E_KgSyAtJi7V5AM5u5ho5OsD43ZWvq5fC8/edit#heading=h.ro0uv2p9ienf)
 
