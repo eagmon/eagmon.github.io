@@ -34,12 +34,12 @@ permalink: /research/
 #### Gut Microbiome
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>Our gut microbiome research, conducted by UConn PhD students and undergrads within the Agmon lab, focuses on creating a comprehensive spatial dynamical model of the human intestines. Key research areas include:</p>
+    <p>Our gut microbiome research, conducted by UConn PhD students and undergrads in the Agmon lab, focuses on creating a comprehensive spatial dynamical model of the human intestines. Research areas include:</p>
     <ul>
       <li><strong>Ecological Niches</strong>: Quantifying the various niches within the intestines and their unique microbial communities, and the spatially structured environment with flows driven by peristalsis.</li>
-      <li><strong>Microbial Interactions</strong>: Exploring how different microbes interact and coexist, from molecular networks to whole-gut physiology, including interactions between microbes and host cells, such as mucus production by goblet cells.</li>
+      <li><strong>Microbial Community Interactions</strong>: Exploring how different microbes interact and coexist, from molecular networks to whole-gut physiology, including interactions between microbes and host cells, such as mucus production by goblet cells.</li>
       <li><strong>Layered Complexity</strong>: Addressing the hierarchical complexity and diverse interactions within the gut microbiome.</li>
-      <li><strong>Dynamic Modeling</strong>: Beginning with stoichiometric modeling, adding multi-species interactions, and incorporating processes like digestion and absorption.</li>
+      <li><strong>Dynamic Modeling</strong>: Beginning with stoichiometric modeling, adding multi-species interactions, and incorporating processes like digestion, absorption, and peristalsis.</li>
       <li><strong>Multi-Omics Data Integration</strong>: Incorporating multi-omics data to build detailed spatial models of the gut environment.</li>
     </ul>
     <p>Our goal is to integrate diverse datasets and uncover the complex microbial interactions that influence gut health and disease.</p>
@@ -54,7 +54,7 @@ permalink: /research/
   <div style="flex: 1;">
     <p>Our virtual tissue research focuses on developing a general framework for virtual tissue simulations, especially gut epithelium and cells in the gut tissue. This framework supports a standard format and integrates various data types and simulation methods, allowing for:</p>
     <ul>
-      <li><strong>Multiscale Data Integration</strong>: Synthesizig high-dimensional biological data, from molnecular to organ scales, into cohesive and dynamic models.</li>
+      <li><strong>Multiscale Data Integration</strong>: Synthesizing high-dimensional biological data, from molecular to organ scales, into cohesive and dynamic models.</li>
       <li><strong>Dynamic Functional Models</strong>: Transforming static spatial maps into functional simulations by adding layers of dynamic biological mechanisms, such as mucus production and metabolic interactions.</li>
       <li><strong>Interdisciplinary Applications</strong>: Facilitating research on interactions between tissue morphologies and bacterial communities, looking for factors of host-microbiome dynamics.</li>
     </ul>
