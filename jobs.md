@@ -9,7 +9,7 @@ The Vivarium lab is hiring! Email Eran Agmon at [agmon@uchc.edu](mailto:agmon@uc
 ### Graduate Researcher
 - We are looking for a graduate student interested in computational modeling of microbiomes -- this could include ocean 
 microbiomes, soil microbiomes, and human gut microbiomes.
-- This position requires admission into UConn Health's Biomedical Sciences PhD program, or Biomedical Engineering Program.
+- This position requires admission into UConn Health's [Biomedical Sciences PhD program](https://health.uconn.edu/graduate-school/academics/programs/ph-d-biomedical-science/), in the Systems Biology Area of Concentration.
 
 ### Postdoctoral Researcher
 - We are looking for a passionate scientist that will build integrative multiscale models of cellular systems, expand 

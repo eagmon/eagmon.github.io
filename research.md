@@ -68,6 +68,7 @@ permalink: /research/
 - [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org) 
 - [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) 
 - [Covert lab E. coli Model](https://www.covert.stanford.edu) 
+- [Allen Institute for Cell Science](https://alleninstitute.org/division/cell-science/?gad_source=1&gbraid=0AAAAADQlkZSqNX4XRHsQvoxN33sdHHxf6&gclid=Cj0KCQjw28W2BhC7ARIsAPerrcIdcYMm4mdfTQiNt3Nk05EpdG0BSnsTvyqLYclNrz5STvQD34dcZecaAkxVEALw_wcB)
 - [ALife meets BLife](https://alifemeetsblife.org)
 - [Build-A-Cell in silico cell](https://docs.google.com/document/d/1ZITIeScV7E_KgSyAtJi7V5AM5u5ho5OsD43ZWvq5fC8/edit#heading=h.ro0uv2p9ienf)
 
