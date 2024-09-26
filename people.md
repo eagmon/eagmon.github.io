@@ -21,16 +21,6 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/amin.jpg" alt="Amin Boroomand" class="people-image" />
-    <div class="person-info">
-        <strong>Amin Boroomand, Postdoc</strong><br/>
-        Amin is a computational biologist at the Agmon lab. Awarded a fellowship from the Woods Hole Oceanographic Institution, he studies metabolic interactions in marine microbiomes through multi-scale modeling to improve understanding of ocean carbon cycling. Amin received his Ph.D. in Quantitative and Systems Biology with a focus on complexity and agent-based modeling from the University of California, Merced. Beyond academia, Amin is passionate about science communication and entrepreneurship and has a penchant for stand-up comedy.
-        <br/>
-        <a href="https://www.linkedin.com/in/amin-boroomand/" target="_blank">Linkedin</a>
-    </div>
-</div>
-
-<div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Amin Boroomand" class="people-image" />
     <div class="person-info">
         <strong>Arnab Mutsuddy, Postdoc</strong><br/>
@@ -79,5 +69,9 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
         Alex is developing the Biosimulations framework.
     </div>
 </div>
+
+# **Alumni**
+Amin Boroomand, postdoc
+
 
 ## The Vivarium lab is hiring! [see positions](https://eagmon.github.io/jobs/)
