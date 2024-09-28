@@ -16,7 +16,7 @@ permalink: /people/
         <strong>Eran Agmon, Principal Investigator</strong><br/>
         Eran is an Assistant Professor at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center. 
         His research involves leveraging software methods to combine heterogeneous datasets and diverse modeling methods to generate integrative multi-scale simulations of cellular ecosystems that span molecular to multi-cellular and ecological scales.
-        When he’s not immersed in science, you might find him reading or [painting.](https://eagmon.github.io/art/)
+        When he’s not immersed in science, you might find him reading or <a href="https://eagmon.github.io/art/" target="_blank">painting</a>.
         <br/>
         <a href="https://scholar.google.com/citations?user=H1ZNVSYAAAAJ&hl=en" target="_blank">Google Scholar</a>
     </div>
