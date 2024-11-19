@@ -23,10 +23,19 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Amin Boroomand" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Arnab Mutsuddy" class="people-image" />
     <div class="person-info">
         <strong>Arnab Mutsuddy, Postdoc</strong><br/>
         About Arnab
+        <br/>
+    </div>
+</div>
+
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Tasnif Rahman" class="people-image" />
+    <div class="person-info">
+        <strong>Tasnif Rahman, Postdoc</strong><br/>
+        About Tasnif
         <br/>
     </div>
 </div>
@@ -37,14 +46,6 @@ permalink: /people/
         <strong>Edwin Appiah, PhD Student (Biomedical Sciences)</strong><br/>
         Prior Education: Bsc. Agricultural Biotechnology (KNUST, Ghana), Mphil. Biodata Analytics and Computational Genomics (KNUST, Ghana)
 Research interest: Edwin is a PhD student in Biomedical Science at UConn health. Before joining UConn, Edwin studied how the gastric microbiome influences gastric carcinogenesis focusing on bacterial diversity, co-occurrence pattern and predictive models, which heightened his research interest in microbiome and health. Currently, Edwin continues to explore his research interest in microbiome at the Agmon lab, with a focus on building multi-scale computational models for the gut microbiome. Edwin loves to play or watch soccer during his leisure time.
-    </div>
-</div>
-
-<div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/jayde.png" alt="Jayde Schlesener" class="people-image" />
-    <div class="person-info">
-        <strong>Jayde Schlesener, Bridge-to-PhD student</strong><br/>
-        Jayde is a C-CoMP research fellow and bridge-to-PhD student through Woods Hole Oceanographic Institute working at the Agmon lab. Here she hopes to gain research experience analyzing data from marine microbes and their involvement in the oceanic biological pump. She graduated with her B.S. in Microbiology with a minor in Chemistry from the University of Kansas and worked in a freshwater ecology lab looking at biogeochemical processes in intermittent streams during her undergrad. Jayde has plans to attend graduate school following her research fellowship continuing her work on marine environments.
     </div>
 </div>
 
@@ -74,6 +75,7 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
 
 # **Alumni**
 Amin Boroomand, postdoc
+Jayde Schlesener, Bridge-to-PhD student
 
 
 ## The Vivarium lab is hiring! [see positions](https://eagmon.github.io/jobs/)
