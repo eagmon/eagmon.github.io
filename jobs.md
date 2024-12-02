@@ -21,9 +21,3 @@ modeling (primarily E. coli), community structure in microbiomes, the design of 
     - Motivated and collaborative personality
   
 <iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Postdoc_Agmon_lab.pdf&embedded=true" style="width:100%; height:500px;" frameborder="0">This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Postdoc_Agmon_lab.pdf">Download PDF</a>.</iframe>
-
-### Diversity, Equity, and Inclusion
-Our lab is committed to fostering an inclusive environment where every individual feels valued. We believe that the 
-diversity of experiences, perspectives, and backgrounds enhances our team and drives innovative research. All members 
-are treated with respect and encouraged to contribute their unique insights. We actively seek to increase diversity and 
-inclusivity, and we welcome collaborations that align with these values.
