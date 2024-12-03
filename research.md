@@ -4,7 +4,7 @@ title: Research Areas
 permalink: /research/
 ---
 
-#### Compositional Systems Biology 
+#### Compositional Systems Biology
 <p>Our approach in compositional systems biology aims to build a scalable, open-ended framework for integrating data and submodels into comprehensive, multiscale models. This approach emphasizes the interfaces and interconnections between different subsystems, focusing on the following key requirements:</p>
 <ul>
   <li><strong>Composition Framework</strong>: Establishing standardized interfaces and orchestration patterns for integrative multiscale simulations.</li>
@@ -16,8 +16,8 @@ permalink: /research/
 <p>By emphasizing the composition of models, software, schemas, and research efforts, this framework facilitates the integration of diverse biological data and models, ensuring scalability and continuous improvement with new scientific contributions.</p>
 
 #### Ocean Microbiome
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  <div style="flex: 1 1 60%; padding: 10px;">
     <p>Our research in ocean microbiomes is centered on connecting genome-scale metabolic models of bacteria and plankton to biogeochemical models of the water column. This integration aims to quantify the impact of microbial activities on climate. Key aspects include:</p>
     <ul>
       <li><strong>Metabolic Modeling</strong>: Developing detailed models of microbial metabolism to understand the functional capabilities of ocean bacteria and plankton.</li>
@@ -26,14 +26,14 @@ permalink: /research/
     </ul>
     <p>This work is conducted in collaboration with the Center for Chemical Currencies of a Microbial Planet at the Woods Hole Oceanographic Institution.</p>
   </div>
-  <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/watercolumn.png" alt="Ocean Microbiome Research">
+  <div style="flex: 1 1 40%; padding: 10px;">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/watercolumn.png" alt="Ocean Microbiome Research" style="width: 100%; height: auto;">
   </div>
 </div>
 
 #### Gut Microbiome
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  <div style="flex: 1 1 60%; padding: 10px;">
     <p>Our gut microbiome research, conducted by UConn PhD students and undergrads in the Agmon lab, focuses on creating a comprehensive spatial dynamical model of the human intestines. Research areas include:</p>
     <ul>
       <li><strong>Ecological Niches</strong>: Quantifying the various niches within the intestines and their unique microbial communities, and the spatially structured environment with flows driven by peristalsis.</li>
@@ -44,14 +44,14 @@ permalink: /research/
     </ul>
     <p>Our goal is to integrate diverse datasets and uncover the complex microbial interactions that influence gut health and disease.</p>
   </div>
-  <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/gutmodel.png" alt="Gut Microbiome Research">
+  <div style="flex: 1 1 40%; padding: 10px;">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/gutmodel.png" alt="Gut Microbiome Research" style="width: 100%; height: auto;">
   </div>
 </div>
 
 #### Virtual Tissue Framework
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  <div style="flex: 1 1 60%; padding: 10px;">
     <p>Our virtual tissue research focuses on developing a general framework for virtual tissue simulations, especially gut epithelium and cells in the gut tissue. This framework supports a standard format and integrates various data types and simulation methods, allowing for:</p>
     <ul>
       <li><strong>Multiscale Data Integration</strong>: Synthesizing high-dimensional biological data, from molecular to organ scales, into cohesive and dynamic models.</li>
@@ -59,16 +59,15 @@ permalink: /research/
       <li><strong>Interdisciplinary Applications</strong>: Facilitating research on interactions between tissue morphologies and bacterial communities, looking for factors of host-microbiome dynamics.</li>
     </ul>
   </div>
-  <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/virtualtissue.png" alt="Virtual Tissue Research">
+  <div style="flex: 1 1 40%; padding: 10px;">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/virtualtissue.png" alt="Virtual Tissue Research" style="width: 100%; height: auto;">
   </div>
 </div>
 
 ### Collaborations
-- [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org) 
-- [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) 
-- [Covert lab E. coli Model](https://www.covert.stanford.edu) 
+- [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org)
+- [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org)
+- [Covert lab E. coli Model](https://www.covert.stanford.edu)
 - [Allen Institute for Cell Science](https://alleninstitute.org/division/cell-science/?gad_source=1&gbraid=0AAAAADQlkZSqNX4XRHsQvoxN33sdHHxf6&gclid=Cj0KCQjw28W2BhC7ARIsAPerrcIdcYMm4mdfTQiNt3Nk05EpdG0BSnsTvyqLYclNrz5STvQD34dcZecaAkxVEALw_wcB), [Simularium](https://simularium.allencell.org)
 - [ALife meets BLife](https://alifemeetsblife.org)
 - [Build-A-Cell in silico cell](https://docs.google.com/document/d/1ZITIeScV7E_KgSyAtJi7V5AM5u5ho5OsD43ZWvq5fC8/edit#heading=h.ro0uv2p9ienf)
-
