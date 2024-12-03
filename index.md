@@ -40,5 +40,5 @@ layout: default
 
 ### Compositional Systems Biology and Process Bigraphs:
 
-[Prelude to a Compositional Systems Biology Preprint](https://arxiv.org/abs/2408.00942) \
+[Foundations of a Compositional Systems Biology](https://arxiv.org/abs/2408.00942) \
 [Process Bigraph on Github](https://github.com/vivarium-collective/process-bigraph)
