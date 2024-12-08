@@ -35,7 +35,7 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Tasnif Rahman" class="people-image" />
     <div class="person-info">
         <strong>Tasnif Rahman, Postdoc</strong><br/>
-        About Tasnif
+        Tasnif is a postdoc working on developing multi-scale computational models of bacterial communities and their interactions with host tissues. His PhD training at the Rensselaer Polytechnic Institute was in tissue engineering and computational biomechanics, and his thesis work involved creating multicellular mechanical models to study symmetry breaking in tissue and organ morphogenesis. He looks forward to developing his computational skills is excited about revisiting his expertise in bacteriology developed during his undergraduate studies in Microbiology. Outside of the lab, Tasnif enjoys videogames, basketball and dance music!
         <br/>
     </div>
 </div>
@@ -75,6 +75,7 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
 
 # **Alumni**
 Amin Boroomand, postdoc
+
 Jayde Schlesener, Bridge-to-PhD student
 
 
