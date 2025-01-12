@@ -8,7 +8,7 @@ permalink: /research/
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Text Section -->
   <div style="padding: 10px; width: 100%;">
-    <p>[Foundations of a Compositional Systems Biology Preprint](https://arxiv.org/abs/2408.00942)</p>
+    <p><a href="https://arxiv.org/abs/2408.00942">Foundations of a Compositional Systems Biology Preprint</a></p>
     <p>Our approach in compositional systems biology aims to build a scalable, open-ended framework for integrating data and submodels into comprehensive, multiscale models. This approach emphasizes the interfaces and interconnections between different subsystems, focusing on the following key requirements:</p>
     <ul>
       <li><strong>Composition Framework</strong>: Establishing standardized interfaces and orchestration patterns for integrative multiscale simulations.</li>
