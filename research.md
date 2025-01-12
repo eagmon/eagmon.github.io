@@ -8,6 +8,7 @@ permalink: /research/
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Text Section -->
   <div style="padding: 10px; width: 100%;">
+    <p>[Foundations of a Compositional Systems Biology Preprint](https://arxiv.org/abs/2408.00942)</p>
     <p>Our approach in compositional systems biology aims to build a scalable, open-ended framework for integrating data and submodels into comprehensive, multiscale models. This approach emphasizes the interfaces and interconnections between different subsystems, focusing on the following key requirements:</p>
     <ul>
       <li><strong>Composition Framework</strong>: Establishing standardized interfaces and orchestration patterns for integrative multiscale simulations.</li>
@@ -65,7 +66,7 @@ permalink: /research/
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;"> 
     <div style="flex: 1 1 60%; padding: 10px;"> 
-        <p>Our whole-cell modeling research focuses on advancing computational frameworks for discovering missing and unknown gene functions in cellular models. Leveraging the most comprehensive whole-cell model of *E. coli*, our work aims to enhance predictive accuracy, reduce manual curation challenges, and streamline discovery workflows. Research areas include:</p> 
+        <p>Our whole-cell modeling research focuses on advancing computational frameworks for discovering missing and unknown gene functions in cellular models. Leveraging the most comprehensive whole-cell model of \*E. coli\*, our work aims to enhance predictive accuracy, reduce manual curation challenges, and streamline discovery workflows. Research areas include:</p> 
         <ul> 
             <li><strong>Discovery Workflow Development</strong>: Generating and analyzing thousands of model variants to identify missing metabolic gene functions, setting the stage for efficient, automated curation.</li> 
             <li><strong>Inference for Simulation Data</strong>: Employing probabilistic methods to refine model parameters and propose new functional annotations, improving predictive capabilities across diverse conditions.</li> 

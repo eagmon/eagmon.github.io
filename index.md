@@ -31,6 +31,12 @@ layout: default
 [Department of Molecular Biology and Biophysics](https://health.uconn.edu/molecular-biology-biophysics/) \
 [Biomedical Engineering Department](https://www.bme.uconn.edu) 
 
+### Funding:
+
+NIH Center for Reproducible Biomedical Modeling \
+NSF Center for Chemical Currencies of a Microbial Planet \
+DARPA Integrated Discovery Workflow for E. coli Whole-Cell Model \
+John Templeton Foundation ALife meets BLife
 
 ### About Vivarium: 
 
