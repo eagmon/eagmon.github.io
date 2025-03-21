@@ -9,15 +9,16 @@ permalink: /research/
   <!-- Text Section -->
   <div style="padding: 10px; width: 100%;">
     <p><a href="https://arxiv.org/abs/2408.00942">Foundations of a Compositional Systems Biology Preprint</a></p>
-    <p>Our approach in compositional systems biology aims to build a scalable, open-ended framework for integrating data and submodels into comprehensive, multiscale models. This approach emphasizes the interfaces and interconnections between different subsystems, focusing on the following key requirements:</p>
+    <p>Compositional Systems Biology is our software-driven approach to building a flexible infrastructure for integrative biological modeling. At its core is a generalizable architecture for composing multiscale simulations—enabling plug-and-play models, transparent data flow, and seamless integration across biological domains.</p>
+    <p>Our infrastructure development focuses on:</p>
     <ul>
-      <li><strong>Composition Framework</strong>: Establishing standardized interfaces and orchestration patterns for integrative multiscale simulations.</li>
-      <li><strong>Composition Schema</strong>: Providing robust, consistent formats for data and model integration to ensure seamless communication and control flows.</li>
-      <li><strong>Compositional Software</strong>: Developing an open-source ecosystem of modular software that adheres to the standardized schema, facilitating flexible addition, removal, and modification of components.</li>
-      <li><strong>Biological Schema</strong>: Creating reusable definitions for systems such as cellular interfaces and molecular mechanisms, enabling detailed models of biological processes.</li>
-      <li><strong>Scientific Collaborations</strong>: Fostering collaboration among researchers by building integrative multiscale models, enhancing data and model integration across scientific consortia.</li>
+      <li><strong>Composition Framework</strong>: A standard for connecting heterogeneous processes using modular interfaces and orchestration patterns.</li>
+      <li><strong>Composition Schema</strong>: A unified format for defining models, data structures, and process interactions to enable reproducibility and automated composition.</li>
+      <li><strong>Compositional Software</strong>: Open-source tools supporting simulation runtime, schema validation, model annotation, and API-based deployment for cloud and local use.</li>
+      <li><strong>Biological Interface Definitions</strong>: Standard schemas for defining cells, molecules, and environments, ensuring consistency and extensibility across simulations.</li>
+      <li><strong>Collaborative Modeling Infrastructure</strong>: Enabling scientific collectives to register and reuse modular components across research domains.</li>
     </ul>
-    <p>By emphasizing the composition of models, software, schemas, and research efforts, this framework facilitates the integration of diverse biological data and models, ensuring scalability and continuous improvement with new scientific contributions.</p>
+    <p>Our goal is to reduce the friction of building and sharing complex biological models, creating an open ecosystem where multiscale simulations can evolve continuously with contributions from diverse research teams.</p>
   </div>
   <!-- Figure Section -->
   <div style="padding: 10px; width: 100%;">
@@ -25,6 +26,33 @@ permalink: /research/
          alt="Compositional User Interface" style="width: 100%; height: auto;">
   </div>
 </div>
+
+
+#### <i>E. coli</i> Whole-cell Model
+<div style="display: flex; flex-direction: column; align-items: flex-start;"> 
+  <div style="width: 100%; padding: 10px;"> 
+    <p>
+        We are developing a comprehensive, mechanistic model of <i>E. coli</i> that integrates gene regulation, metabolism, and cellular physiology to simulate behavior across molecular, cellular, and population scales. 
+        With over 19,000 parameters, it predicts gene expression, metabolite levels, protein interactions, and whole-cell properties such as biomass and growth rate—advancing our understanding of microbial systems biology.
+    </p>
+    <p>
+        Our focus is on using this model as a discovery tool to:
+    </p>
+    <ul>
+      <li><strong>Complete functional annotations</strong> by predicting roles of uncharacterized genes through simulation-data comparisons.</li>
+      <li><strong>Capture population heterogeneity</strong> by simulating variation in growth and physiology across thousands of cells.</li>
+      <li><strong>Model environmental context</strong> by exploring how nutrient conditions and stressors influence adaptation and behavior.</li>
+      <li><strong>Enable simulation-based inference</strong> using probabilistic and ML techniques for parameter estimation and experimental design.</li>
+    </ul>
+    <p>By unifying diverse biological data in an extensible simulation, this work deepens our understanding of microbial physiology and enables systems-level reasoning and discovery.</p>
+  </div> 
+
+  <div style="width: 100%; padding: 10px;"> 
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/ecoli.png" alt="E. coli Whole-Cell Modeling Research" style="width: 100%; height: auto;"> 
+  </div> 
+</div>
+
+
 
 
 #### Ocean Microbiome
@@ -61,31 +89,3 @@ permalink: /research/
   </div>
 </div>
 
-
-#### Whole-Cell Modeling
-
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;"> 
-    <div style="flex: 1 1 60%; padding: 10px;"> 
-        <p>Our whole-cell modeling research focuses on advancing computational frameworks for discovering missing and unknown gene functions in cellular models. Leveraging the most comprehensive whole-cell model of \*E. coli\*, our work aims to enhance predictive accuracy, reduce manual curation challenges, and streamline discovery workflows. Research areas include:</p> 
-        <ul> 
-            <li><strong>Discovery Workflow Development</strong>: Generating and analyzing thousands of model variants to identify missing metabolic gene functions, setting the stage for efficient, automated curation.</li> 
-            <li><strong>Inference for Simulation Data</strong>: Employing probabilistic methods to refine model parameters and propose new functional annotations, improving predictive capabilities across diverse conditions.</li> 
-            <li><strong>Standards for Data Integration</strong>: Establishing rigorous data standards for integrating multi-omics datasets, including metabolomics, fluxomics, transcriptomics, and proteomics.</li> 
-            <li><strong>Gene Function Discovery</strong>: Focusing on metabolic processes to uncover missing gene functions and identify critical roles in cellular pathways and gene essentiality.</li> 
-        </ul> 
-        <p>Through these efforts, we aim to transform whole-cell modeling into a scalable discovery tool, paving the way for applications to other organisms and biological systems.</p> 
-    </div> 
-    <div style="flex: 1 1 40%; padding: 10px;"> 
-        <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/ecoli.png" alt="Whole-Cell Modeling Research" style="width: 100%; height: auto;"> 
-    </div> 
-</div>
-
-
-### Collaborations
-- [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org)
-- [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org)
-- [Covert lab E. coli Model](https://www.covert.stanford.edu)
-- [Allen Institute for Cell Science](https://alleninstitute.org/division/cell-science/?gad_source=1&gbraid=0AAAAADQlkZSqNX4XRHsQvoxN33sdHHxf6&gclid=Cj0KCQjw28W2BhC7ARIsAPerrcIdcYMm4mdfTQiNt3Nk05EpdG0BSnsTvyqLYclNrz5STvQD34dcZecaAkxVEALw_wcB), [Simularium](https://simularium.allencell.org)
-- [ALife meets BLife](https://alifemeetsblife.org)
-- [Build-A-Cell in silico cell](https://docs.google.com/document/d/1ZITIeScV7E_KgSyAtJi7V5AM5u5ho5OsD43ZWvq5fC8/edit#heading=h.ro0uv2p9ienf)
-- [Open Virtual Tissues (OpenVT)](https://openvt.org)
