@@ -8,7 +8,6 @@ permalink: /research/
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Text Section -->
   <div style="padding: 10px; width: 100%;">
-    <p><a href="https://arxiv.org/abs/2408.00942">Foundations of a Compositional Systems Biology Preprint</a></p>
     <p>Compositional Systems Biology is our software-driven approach to building a flexible infrastructure for integrative biological modeling. At its core is a generalizable architecture for composing multiscale simulations—enabling plug-and-play models, transparent data flow, and seamless integration across biological domains.</p>
     <p>Our infrastructure development focuses on:</p>
     <ul>
@@ -19,6 +18,7 @@ permalink: /research/
       <li><strong>Collaborative Modeling Infrastructure</strong>: Enabling scientific collectives to register and reuse modular components across research domains.</li>
     </ul>
     <p>Our goal is to reduce the friction of building and sharing complex biological models, creating an open ecosystem where multiscale simulations can evolve continuously with contributions from diverse research teams.</p>
+    <p><a href="https://arxiv.org/abs/2408.00942">Foundations of a Compositional Systems Biology Preprint</a></p>
   </div>
   <!-- Figure Section -->
   <div style="padding: 10px; width: 100%;">
