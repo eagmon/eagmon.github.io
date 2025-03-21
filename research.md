@@ -46,10 +46,12 @@ permalink: /research/
     </ul>
     <p>By unifying diverse biological data in an extensible simulation, this work deepens our understanding of microbial physiology and enables systems-level reasoning and discovery.</p>
   </div> 
-
   <div style="width: 100%; padding: 10px;"> 
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/ecoli.png" alt="E. coli Whole-Cell Modeling Research" style="width: 100%; height: auto;"> 
-  </div> 
+      <video autoplay loop muted playsinline style="width: 100%; height: auto;" controls>
+        <source src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/morowitz.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+  </div>
 </div>
 
 
