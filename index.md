@@ -35,8 +35,8 @@ layout: default
 
 [NIH Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) \
 [NSF Center for Chemical Currencies of a Microbial Planet](https://ccomp-stc.org) \
-[DARPA Discovery Unknome Function](https://www.darpa.mil/research/programs/duf) \
-John Templeton Foundation ALife meets BLife
+[DARPA Discovering Unknome Function](https://www.darpa.mil/research/programs/duf) \
+[John Templeton Foundation Science of Purpose](https://www.templeton.org/internal-competiton-fund/purpose-initiative)
 
 ### About Vivarium: 
 
@@ -49,9 +49,7 @@ John Templeton Foundation ALife meets BLife
 [Foundations of a Compositional Systems Biology](https://arxiv.org/abs/2408.00942) \
 [Process Bigraph on Github](https://github.com/vivarium-collective/process-bigraph)
 
-### Collaborations
-- [Center for Chemical Currencies of a Microbial Planet (C-CoMP)](https://ccomp-stc.org)
-- [Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org)
+### Other Ongoing Collaborations
 - [Covert lab E. coli Model](https://www.covert.stanford.edu)
 - [Allen Institute for Cell Science](https://alleninstitute.org/division/cell-science/?gad_source=1&gbraid=0AAAAADQlkZSqNX4XRHsQvoxN33sdHHxf6&gclid=Cj0KCQjw28W2BhC7ARIsAPerrcIdcYMm4mdfTQiNt3Nk05EpdG0BSnsTvyqLYclNrz5STvQD34dcZecaAkxVEALw_wcB), [Simularium](https://simularium.allencell.org)
 - [Build-A-Cell in silico cell](https://docs.google.com/document/d/1ZITIeScV7E_KgSyAtJi7V5AM5u5ho5OsD43ZWvq5fC8/edit#heading=h.ro0uv2p9ienf)
