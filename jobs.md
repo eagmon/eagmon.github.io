@@ -19,3 +19,4 @@ modeling (primarily E. coli), community structure in microbiomes, the design of 
     - PhD in Computational Biology, Bioengineering, Complex Systems, Physics, Computer Science, or related field
     - Experience programming in Python
     - Motivated and collaborative personality
+[Download full job description (PDF)](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/postdoc_SMS.pdf)
