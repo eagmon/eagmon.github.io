@@ -23,7 +23,7 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Arnab Mutsuddy" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/arnab_microbe.png" alt="Arnab Mutsuddy" class="people-image" />
     <div class="person-info">
         <strong>Arnab Mutsuddy, Postdoc</strong><br/>
         About Arnab
@@ -32,7 +32,7 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Tasnif Rahman" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/tasnif_microbe.png" alt="Tasnif Rahman" class="people-image" />
     <div class="person-info">
         <strong>Tasnif Rahman, Postdoc</strong><br/>
         Tasnif is a postdoc working on developing multi-scale computational models of bacterial communities and their interactions with host tissues. His PhD training at the Rensselaer Polytechnic Institute was in tissue engineering and computational biomechanics, and his thesis work involved creating multicellular mechanical models to study symmetry breaking in tissue and organ morphogenesis. He looks forward to developing his computational skills is excited about revisiting his expertise in bacteriology developed during his undergraduate studies in Microbiology. Outside of the lab, Tasnif enjoys videogames, basketball and dance music!
@@ -50,7 +50,7 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist3.png" alt="Isha Mendiratta" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist1.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Isha Mendiratta, Undergraduate researcher</strong><br/>
         Isha is an undergraduate at UConn Storrs.
@@ -58,7 +58,7 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist1.png" alt="Isha Mendiratta" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Colin Slavin, Undergraduate researcher</strong><br/>
         Colin is an undergraduate at UConn Storrs.
@@ -66,7 +66,7 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist1.png" alt="Christopher Rauch" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist3.png" alt="Christopher Rauch" class="people-image" />
     <div class="person-info">
         <strong>Christopher Rauch, Undergraduate researcher</strong><br/>
         Chris is an undergraduate at UConn Storrs.
@@ -74,7 +74,7 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Ryan Spangler, Software Director</strong><br/>
         Ryan is working on the Simulating Microbial Systems project.
@@ -82,7 +82,7 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Boyan Beronov, Software Developer</strong><br/>
         Boyan is a contractor at the Agmon lab, working on the Simulating Microbial Systems project and Discovering Unknome Functions project.
@@ -90,7 +90,7 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Alex Patrie, Software Developer</strong><br/>
         Alex is working on the Simulating Microbial Systems project.
