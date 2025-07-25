@@ -33,6 +33,7 @@ layout: default
 
 ### Funding:
 
+[DARPA Simulating Microbial Systems](https://www.darpa.mil/research/programs/simulating-microbial-systems)
 [NIH Center for Reproducible Biomedical Modeling](https://reproduciblebiomodels.org) \
 [NSF Center for Chemical Currencies of a Microbial Planet](https://ccomp-stc.org) \
 [DARPA Discovering Unknome Function](https://www.darpa.mil/research/programs/duf) \

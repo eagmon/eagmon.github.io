@@ -66,10 +66,34 @@ Research interest: Edwin is a PhD student in Biomedical Science at UConn health.
 </div>
 
 <div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist1.png" alt="Christopher Rauch" class="people-image" />
+    <div class="person-info">
+        <strong>Christopher Rauch, Undergraduate researcher</strong><br/>
+        Chris is an undergraduate at UConn Storrs.
+    </div>
+</div>
+
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
+    <div class="person-info">
+        <strong>Ryan Spangler, Software Director</strong><br/>
+        Ryan is working on the Simulating Microbial Systems project.
+    </div>
+</div>
+
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
+    <div class="person-info">
+        <strong>Boyan Beronov, Software Developer</strong><br/>
+        Boyan is a contractor at the Agmon lab, working on the Simulating Microbial Systems project and Discovering Unknome Functions project.
+    </div>
+</div>
+
+<div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Alex Patrie, Software Developer</strong><br/>
-        Alex is developing the Biosimulations framework.
+        Alex is working on the Simulating Microbial Systems project.
     </div>
 </div>
 
