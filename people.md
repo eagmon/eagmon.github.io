@@ -36,7 +36,7 @@ permalink: /people/
     <div class="person-info">
         <strong>Tasnif Rahman, Postdoc</strong><br/>
 Tasnif is working on spatial models of bacterial communities and their interactions with host tissues. 
-His PhD training at the Rensselaer Polytechnic Institute involved creating multicellular mechanical models to study symmetry breaking in tissue and organ morphogenesis. He looks forward to developing his computational skills is excited about revisiting his expertise in bacteriology developed during his undergraduate studies in Microbiology. 
+His PhD at the Rensselaer Polytechnic Institute involved creating multicellular mechanical models to study symmetry breaking in tissue and organ morphogenesis. He looks forward to developing his computational skills is excited about revisiting his expertise in bacteriology developed during his undergraduate studies in Microbiology. 
 Outside of the lab, Tasnif enjoys videogames, basketball and dance music!
         <br/>
     </div>
@@ -77,7 +77,6 @@ In his free time, Edwin enjoys playing or watching soccer.
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist1.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Isha Mendiratta, Undergraduate researcher</strong><br/>
-        Isha is an undergraduate at UConn Storrs.
     </div>
 </div>
 
@@ -85,7 +84,6 @@ In his free time, Edwin enjoys playing or watching soccer.
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
     <div class="person-info">
         <strong>Colin Slavin, Undergraduate researcher</strong><br/>
-        Colin is an undergraduate at UConn Storrs.
     </div>
 </div>
 
@@ -93,7 +91,6 @@ In his free time, Edwin enjoys playing or watching soccer.
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist3.png" alt="Christopher Rauch" class="people-image" />
     <div class="person-info">
         <strong>Christopher Rauch, Undergraduate researcher</strong><br/>
-        Chris is an undergraduate at UConn Storrs.
     </div>
 </div>
 
@@ -122,9 +119,9 @@ In his free time, Edwin enjoys playing or watching soccer.
 </div>
 
 # **Alumni**
-Amin Boroomand, postdoc
+Amin Boroomand, postdoc with C-CoMP
 
-Jayde Schlesener, Bridge-to-PhD student
+Jayde Schlesener, Bridge-to-PhD student with C-CoMP
 
 
 ## The Vivarium lab is hiring! [see positions](https://eagmon.github.io/jobs/)
