@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eran Agmon speaks at Society for Mathematical Biology
+title: Eran speaks at Society for Mathematical Biology
 ---
 
 Eran participated in the 2025 [Society for Mathematical Biology (SMB) Annual Meeting](https://2025.smb.org/), where he contributed to two events showcasing multiscale tissue modeling approaches.
