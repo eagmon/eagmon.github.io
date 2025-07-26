@@ -23,7 +23,7 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/arnab_microbe.png" alt="Arnab Mutsuddy" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_arnab.png" alt="Arnab Mutsuddy" class="people-image" />
     <div class="person-info">
         <strong>Arnab Mutsuddy, Postdoc</strong><br/>
         About Arnab
@@ -32,10 +32,12 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/tasnif_microbe.png" alt="Tasnif Rahman" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_tasnif.png" alt="Tasnif Rahman" class="people-image" />
     <div class="person-info">
         <strong>Tasnif Rahman, Postdoc</strong><br/>
-        Tasnif is a postdoc working on developing multi-scale computational models of bacterial communities and their interactions with host tissues. His PhD training at the Rensselaer Polytechnic Institute was in tissue engineering and computational biomechanics, and his thesis work involved creating multicellular mechanical models to study symmetry breaking in tissue and organ morphogenesis. He looks forward to developing his computational skills is excited about revisiting his expertise in bacteriology developed during his undergraduate studies in Microbiology. Outside of the lab, Tasnif enjoys videogames, basketball and dance music!
+Tasnif is working on spatial models of bacterial communities and their interactions with host tissues. 
+His PhD training at the Rensselaer Polytechnic Institute involved creating multicellular mechanical models to study symmetry breaking in tissue and organ morphogenesis. He looks forward to developing his computational skills is excited about revisiting his expertise in bacteriology developed during his undergraduate studies in Microbiology. 
+Outside of the lab, Tasnif enjoys videogames, basketball and dance music!
         <br/>
     </div>
 </div>
@@ -44,8 +46,30 @@ permalink: /people/
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/edwin.png" alt="Edwin Appiah" class="people-image" />
     <div class="person-info">
         <strong>Edwin Appiah, PhD Student (Biomedical Sciences)</strong><br/>
-        Prior Education: Bsc. Agricultural Biotechnology (KNUST, Ghana), Mphil. Biodata Analytics and Computational Genomics (KNUST, Ghana)
-Research interest: Edwin is a PhD student in Biomedical Science at UConn health. Before joining UConn, Edwin studied how the gastric microbiome influences gastric carcinogenesis focusing on bacterial diversity, co-occurrence pattern and predictive models, which heightened his research interest in microbiome and health. Currently, Edwin continues to explore his research interest in microbiome at the Agmon lab, with a focus on building multi-scale computational models for the gut microbiome. Edwin loves to play or watch soccer during his leisure time.
+Edwin is working on integrating consumer resource models with genome-scale metabolic models to build community simulations. 
+Before joining UConn, as a student in Biodata Analytics and Computational Genomics (KNUST, Ghana), Edwin studied how the gastric microbiome influences gastric carcinogenesis focusing on bacterial diversity, co-occurrence pattern and predictive models. 
+In his free time, Edwin enjoys playing or watching soccer.
+    </div>
+</div>
+
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_rashmi.png" alt="Rashmi Kaldera Dissasekara" class="people-image" />
+    <div class="person-info">
+        <strong>Rashmi Kaldera Dissasekara, PhD Student (Biomedical Sciences)</strong><br/>
+    </div>
+</div>
+
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_maya.png" alt="Maya Abdalla" class="people-image" />
+    <div class="person-info">
+        <strong>Maya Abdalla, PhD Student (Biomedical Sciences)</strong><br/>
+    </div>
+</div>
+
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_tanvir.png" alt="Neyamat Khan Tanvir" class="people-image" />
+    <div class="person-info">
+        <strong>Neyamat Khan Tanvir, PhD Student (Biomedical Sciences)</strong><br/>
     </div>
 </div>
 
