@@ -60,9 +60,13 @@ In his free time, Edwin enjoys playing or watching soccer.
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_maya.png" alt="Maya Abdalla" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/maya.jpeg" alt="Maya Abdalla" class="people-image" />
     <div class="person-info">
         <strong>Maya Abdalla, PhD Student (Biomedical Sciences)</strong><br/>
+Maya is currently working on integrating extracellular polymeric substances (EPS) and, eventually, a biofilm model into the Whole Cell Model in Vivarium. 
+Prior to joining UConn, Maya worked as a research assistant at Brigham and Women’s Hospital, where she managed and analyzed CT scans and data from participants in the Framingham Heart Study. 
+She previously participated in the Harvard T.H. Chan School of Public Health Summer Program in Biostatistics and Computational Biology. 
+She aims to further develop her computational expertise and advance integrative biological modeling efforts.
     </div>
 </div>
 
