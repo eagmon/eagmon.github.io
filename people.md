@@ -71,9 +71,13 @@ She aims to further develop her computational expertise and advance integrative 
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_tanvir.png" alt="Neyamat Khan Tanvir" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/tanvir.png" alt="Neyamat Khan Tanvir" class="people-image" />
     <div class="person-info">
         <strong>Neyamat Khan Tanvir, PhD Student (Biomedical Sciences)</strong><br/>
+Tanvir is currently working on sRNA (small RNA) regulation in response to different kinds of stress into the Whole-Cell Model of E. coli using Vivarium. 
+His work aims to integrate immunological perspectives into Whole-Cell Models to better capture host-pathogen dynamics. 
+Prior to joining UConn Health, he conducted whole-genome sequencing and comparative analysis of Citrobacter werkmanii. 
+He aspires to build robust computational models that bridge molecular mechanisms and cellular behaviour, driving innovation in systems-level biological research.
     </div>
 </div>
 
