@@ -63,7 +63,7 @@ In his free time, Edwin enjoys playing or watching soccer.
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/maya.jpeg" alt="Maya Abdalla" class="people-image" />
     <div class="person-info">
         <strong>Maya Abdalla, PhD Student (Biomedical Sciences)</strong><br/>
-Maya is currently working on integrating extracellular polymeric substances (EPS) and, eventually, a biofilm model into the Whole Cell Model in Vivarium. 
+Maya is working on integrating extracellular polymeric substances (EPS) and, eventually, a biofilm model. 
 Prior to joining UConn, Maya worked as a research assistant at Brigham and Women’s Hospital, where she managed and analyzed CT scans and data from participants in the Framingham Heart Study. 
 She previously participated in the Harvard T.H. Chan School of Public Health Summer Program in Biostatistics and Computational Biology. 
 She aims to further develop her computational expertise and advance integrative biological modeling efforts.
@@ -74,10 +74,10 @@ She aims to further develop her computational expertise and advance integrative 
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/tanvir.png" alt="Neyamat Khan Tanvir" class="people-image" />
     <div class="person-info">
         <strong>Neyamat Khan Tanvir, PhD Student (Biomedical Sciences)</strong><br/>
-Tanvir is currently working on sRNA (small RNA) regulation in response to different kinds of stress into the Whole-Cell Model of E. coli using Vivarium. 
-His work aims to integrate immunological perspectives into Whole-Cell Models to better capture host-pathogen dynamics. 
+Tanvir is working on modeling sRNA (small RNA) regulation in response to different stresses. 
+He aims to integrate immunological perspectives into whole-cell models to better capture host-pathogen dynamics. 
 Prior to joining UConn Health, he conducted whole-genome sequencing and comparative analysis of Citrobacter werkmanii. 
-He aspires to build robust computational models that bridge molecular mechanisms and cellular behaviour, driving innovation in systems-level biological research.
+He aspires to build robust computational models that bridge molecular mechanisms and cellular behaviour, driving innovations in biological research.
     </div>
 </div>
 
