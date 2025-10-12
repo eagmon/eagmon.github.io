@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 The Agmon Lab \
-Cell and Genome Sciences Building \
+Center for Cell Analysis and Modeling \
 195 Farmington Ave, Suite 3080 \
 Farmington, CT 06032
 
