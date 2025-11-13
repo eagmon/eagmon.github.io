@@ -68,12 +68,6 @@ permalink: /research/
     </ul>
     <p>This work is conducted in collaboration with the Center for Chemical Currencies of a Microbial Planet at the Woods Hole Oceanographic Institution.</p>
   </div>
-
-[//]: # (  <div style="flex: 1 1 40%; padding: 10px;">)
-
-[//]: # (    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/watercolumn.png" alt="Ocean Microbiome Research" style="width: 100%; height: auto;">)
-
-[//]: # (  </div>)
 </div>
 
 #### Gut Microbiome
@@ -89,11 +83,5 @@ permalink: /research/
     </ul>
     <p>Our goal is to integrate diverse datasets and uncover the complex microbial interactions that influence gut health and disease.</p>
   </div>
-
-[//]: # (  <div style="flex: 1 1 40%; padding: 10px;">)
-
-[//]: # (    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/gutmodel.png" alt="Gut Microbiome Research" style="width: 100%; height: auto;">)
-
-[//]: # (  </div>)
 </div>
 
