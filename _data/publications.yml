@@ -1,3 +1,33 @@
+- authors: 'Smith, Lucian P; Malik-Sheriff, Rahuman S; Nguyen, Tung V N; Hermjakob, Henning; Karr, Jonathan; Shaikh, Bilal; Drescher, Logan; Moraru, Ion I; Schaff, James C; Agmon, Eran; Patrie, Alexander A; Blinov, Michael L; Hellerstein, Joseph L; May, Elebeoba E; Nickerson, David P; Gennari, John H; Sauro, Herbert M.'
+  year: '2025'
+  title: 'Verification and reproducible curation of the BioModels repository.'
+  journal: 'PLOS Computational Biology'
+  link: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013239'
+
+- authors: 'Qiu, Xihua; Liu, Yamin; Vera-Licona, Paola; Agmon, Eran; Kshitiz; Suhail, Yasir.'
+  year: '2025'
+  title: 'Hif-1 responsive IFFLs to explain specific transcriptional responses to cycling hypoxia in cancers.'
+  journal: 'NPJ systems biology and applications'
+  link: 'https://www.nature.com/articles/s41540-025-00612-z'
+
+- authors: 'Sauro, Herbert M; Agmon, Eran; Blinov, Michael L; Gennari, John H; Hellerstein, Joe; Heydarabadipour, Adel; Hunter, Peter; Jardine, Bartholomew E; May, Elebeoba; Nickerson, David P; Smith, Lucian P; Bader, Gary D; Bergmann, Frank; Boyle, Patrick M; Dräger, Andreas; Faeder, James R; Feng, Song; Freire, Juliana; Fröhlich, Fabian; Glazier, James A; Gorochowski, Thomas E; Helikar, Tomas; Hoops, Stefan; Imoukhuede, Princess; Keating, Sarah M; Konig, Matthias; Laubenbacher, Reinhard; Loew, Leslie M; Lopez, Carlos F; Lytton, William W; McCulloch, Andrew; Mendes, Pedro; Myers, Chris J; Myers, Jerry G; Mulugeta, Lealem; Niarakis, Anna; van Niekerk, David D; Olivier, Brett G; Patrie, Alexander A; Quardokus, Ellen M; Radde, Nicole; Rohwer, Johann M; Sahle, Sven; Schaff, James C; Sego, T J; Shin, Janis; Snoep, Jacky L; Vadigepalli, Rajanikanth; Wiley, H Steve; Waltemath, Dagmar; Moraru, Ion.'
+  year: '2025'
+  title: 'From FAIR to CURE: Guidelines for Computational Models of Biological Systems.'
+  journal: 'arXiv'
+  link: 'https://arxiv.org/abs/2502.15597'
+
+- authors: 'Lyons, Blair; Mogre, Saurabh S; Vegesna, Karthik; Yu, Jessica S; Hansen, Mark; Raghunathan, Aadarsh; Johnson, Graham T; Agmon, Eran; Akamatsu, Matthew.'
+  year: '2025'
+  title: 'Comparing simulations of actin filament compression reveals tradeoff between computational cost and capturing supertwist.'
+  journal: 'microPublication Biology'
+  link: 'https://www.micropublicationbiology.org/journals/biology/micropub-biology-001347/'
+
+- authors: 'Agmon, Eran, and Spangler, Ryan.'
+  year: '2025'
+  title: 'Process Bigraphs and the Architecture of Compositional Systems Biology.'
+  journal: 'arXiv'
+  link: 'https://arxiv.org/abs/2512.23754'
+
 - authors: 'Agmon, E.'
   year: '2024'
   title: 'Foundations of a Compositional Systems Biology.'

@@ -48,7 +48,8 @@ layout: default
 ### Compositional Systems Biology and Process Bigraphs:
 
 [Foundations of a Compositional Systems Biology](https://arxiv.org/abs/2408.00942) \
-[Process Bigraph on Github](https://github.com/vivarium-collective/process-bigraph)
+[Process Bigraph on Github](https://github.com/vivarium-collective/process-bigraph) \
+[Process Bigraph Supplemental Materials](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphSupplement2025.pdf)
 
 ### Other Ongoing Collaborations
 - [Covert lab E. coli Model](https://www.covert.stanford.edu)
