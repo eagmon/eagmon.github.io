@@ -1,0 +1,10 @@
+---
+layout: post
+title: Data Science Invited Speaker Series at IU
+---
+
+Eran presented a talk titled **"Compositional Systems Biology: An executable framework for connecting models across scales"** as part of the **Data Science Invited Speaker Series** at Indiana University on **March 6, 2026**.
+
+**Abstract:** This talk introduces Compositional Systems Biology, an approach for building multiscale biological models from interoperable processes, grounded in the principle that complex systems can be assembled from subsystems with explicit interfaces, composition patterns, and well-defined orchestration patterns governing when and how processes are executed. At the core of this approach is Vivarium, an open-source platform for multiscale simulation that integrates diverse modeling formalisms – including ODEs, stochastic kinetics, constraint-based models, agent-based dynamics, and rule-based logic – within a unified execution framework. Vivarium provides standardized process interfaces and a shared state schema that enable heterogeneous submodels to exchange data consistently, compose cleanly, and coordinate activity across time and space. A flagship demonstration is vEcoli, a whole-cell model integrating more than a dozen mechanistic submodels spanning metabolism, transcription, translation, macromolecular synthesis, and cell division, parameterized by ~19,000 experimentally curated values drawn from EcoCyc and related resources. Aligned with community standards such as BioSimulators, Vivarium offers a transparent architecture for assembling, validating, and reusing large composite models. I will show how these compositional principles extend to emerging efforts in whole-cell simulation, microbial systems modeling, and spatially resolved multicellular tissue dynamics, demonstrating how the approach links biological structure to function and accelerates collaborative, scalable modeling in systems biology.
+
+Watch the recording [here](https://iu.mediaspace.kaltura.com/media/t/1_wf4ydr7s).
