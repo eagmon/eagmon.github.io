@@ -8,22 +8,39 @@ permalink: /research/
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Text Section -->
   <div style="padding: 10px; width: 100%;">
-    <p>Compositional Systems Biology is our software-driven approach to building a flexible infrastructure for integrative biological modeling. At its core is a generalizable architecture for composing multiscale simulations—enabling plug-and-play models, transparent data flow, and seamless integration across biological domains.</p>
+    <p>Compositional Systems Biology is our approach to building infrastructure for integrative biological modeling: a generalizable architecture for composing multiscale simulations from modular models with transparent data flow.</p>
     <p>Our infrastructure development focuses on:</p>
     <ul>
-      <li><strong>Composition Framework</strong>: A standard for connecting heterogeneous processes using modular interfaces and orchestration patterns.</li>
-      <li><strong>Composition Schema</strong>: A unified format for defining models, data structures, and process interactions to enable reproducibility and automated composition.</li>
-      <li><strong>Compositional Software</strong>: Open-source tools supporting simulation runtime, schema validation, model annotation, and API-based deployment for cloud and local use.</li>
-      <li><strong>Biological Interface Definitions</strong>: Standard schemas for defining cells, molecules, and environments, ensuring consistency and extensibility across simulations.</li>
-      <li><strong>Collaborative Modeling Infrastructure</strong>: Enabling scientific collectives to register and reuse modular components across research domains.</li>
+      <li><strong>Composition Framework</strong>: a standard for connecting heterogeneous processes through modular interfaces and orchestration patterns.</li>
+      <li><strong>Composition Schema</strong>: a unified format for defining models, data structures, and process interactions, supporting reproducibility and automated composition.</li>
+      <li><strong>Compositional Software</strong>: open-source tools for simulation runtime, schema validation, model annotation, and API-based deployment.</li>
+      <li><strong>Biological Interface Definitions</strong>: standard schemas for cells, molecules, and environments, keeping simulations consistent and extensible.</li>
+      <li><strong>Collaborative Modeling Infrastructure</strong>: shared registries that let research groups reuse modular components across domains.</li>
     </ul>
-    <p>Our goal is to reduce the friction of building and sharing complex biological models, creating an open ecosystem where multiscale simulations can evolve continuously with contributions from diverse research teams.</p>
-    <p><a href="https://arxiv.org/abs/2408.00942">Foundations of a Compositional Systems Biology Preprint</a></p>
+    <p>The goal is to reduce the friction of building and sharing complex biological models, creating an open ecosystem where multiscale simulations evolve through contributions from many research groups.</p>
+    <p>This infrastructure is being built as <strong>Vivarium 2.0</strong>, a redesign of the Vivarium framework around the process bigraph formalism. It introduces a typed schema system and composition engine that make models easier to define, validate, compose, and visualize. The core software is developed openly across <a href="https://github.com/vivarium-collective/process-bigraph">process-bigraph</a> (the composition engine), <a href="https://github.com/vivarium-collective/bigraph-schema">bigraph-schema</a> (the type and schema system), and <a href="https://github.com/vivarium-collective/bigraph-viz">bigraph-viz</a> (visualization of composite models).</p>
+    <p>The approach rests on a formal foundation: process bigraphs give a rigorous mathematical account of how heterogeneous processes share state and compose, keeping combined models well-defined. See the <a href="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphSupplement2025.pdf">Process Bigraph Supplemental Materials</a> for the formal treatment.</p>
   </div>
   <!-- Figure Section -->
   <div style="padding: 10px; width: 100%;">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/user_demo.png" 
-         alt="Compositional User Interface" style="width: 100%; height: auto;">
+    <img src="/images/metamodeler_overview.png" 
+         alt="Metamodeler Overview" style="width: 100%; height: auto;">
+  </div>
+  <!-- Guiding Principles Posters -->
+  <div style="padding: 10px; width: 100%;">
+    <p>Two illustrated guides set out the principles behind this work. <em>The Ten Commandments of Computational Cell Biology</em> covers the modeling discipline behind each component; <em>Community-Based Assembly of Whole-Cell Models</em> describes how independently-built models combine into whole-cell understanding through shared interfaces and communal use.</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+      <figure style="flex: 1 1 45%; min-width: 280px; margin: 0; text-align: center;">
+        <img src="/images/ten_commandments_cell_biology.png"
+             alt="The Ten Commandments of Computational Cell Biology" style="width: 100%; height: auto;">
+        <figcaption style="font-size: 0.9em; padding-top: 6px;">The Ten Commandments of Computational Cell Biology — <a href="/images/ten_commandments_cell_biology.png" download>Download</a></figcaption>
+      </figure>
+      <figure style="flex: 1 1 45%; min-width: 280px; margin: 0; text-align: center;">
+        <img src="/images/constitutional_modeling.png"
+             alt="Community-Based Assembly of Whole-Cell Models" style="width: 100%; height: auto;">
+        <figcaption style="font-size: 0.9em; padding-top: 6px;">Community-Based Assembly of Whole-Cell Models — <a href="/images/constitutional_modeling.png" download>Download</a></figcaption>
+      </figure>
+    </div>
   </div>
 </div>
 
@@ -32,19 +49,18 @@ permalink: /research/
 <div style="display: flex; flex-direction: column; align-items: flex-start;"> 
   <div style="width: 100%; padding: 10px;"> 
     <p>
-        We are developing a comprehensive, mechanistic model of <i>E. coli</i> that integrates gene regulation, metabolism, and cellular physiology to simulate behavior across molecular, cellular, and population scales. 
-        With over 19,000 parameters, it predicts gene expression, metabolite levels, protein interactions, and whole-cell properties such as biomass and growth rate—advancing our understanding of microbial systems biology.
+        We are developing a mechanistic model of <i>E. coli</i> that integrates gene regulation, metabolism, and cellular physiology across molecular, cellular, and population scales. With over 19,000 parameters, it predicts gene expression, metabolite levels, protein interactions, and whole-cell properties such as biomass and growth rate.
     </p>
     <p>
-        Our focus is on using this model as a discovery tool to:
+        We use the model as a discovery tool to:
     </p>
     <ul>
-      <li><strong>Complete functional annotations</strong> by predicting roles of uncharacterized genes through simulation-data comparisons.</li>
+      <li><strong>Complete functional annotations</strong> by predicting the roles of uncharacterized genes from simulation–data comparisons.</li>
       <li><strong>Capture population heterogeneity</strong> by simulating variation in growth and physiology across thousands of cells.</li>
-      <li><strong>Model environmental context</strong> by exploring how nutrient conditions and stressors influence adaptation and behavior.</li>
-      <li><strong>Enable simulation-based inference</strong> using probabilistic and ML techniques for parameter estimation and experimental design.</li>
+      <li><strong>Model environmental context</strong> by testing how nutrients and stressors shape adaptation and behavior.</li>
+      <li><strong>Enable simulation-based inference</strong> using probabilistic and ML methods for parameter estimation and experimental design.</li>
     </ul>
-    <p>By unifying diverse biological data in an extensible simulation, this work deepens our understanding of microbial physiology and enables systems-level reasoning and discovery.</p>
+    <p>By unifying diverse data in an extensible simulation, the model supports systems-level reasoning and discovery in microbial physiology.</p>
   </div> 
   <div style="width: 100%; padding: 10px;"> 
       <video autoplay loop muted playsinline style="width: 100%; height: auto;" controls>
@@ -60,11 +76,11 @@ permalink: /research/
 #### Ocean Microbiome
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <div style="flex: 1 1 60%; padding: 10px;">
-    <p>Our research in ocean microbiomes is centered on connecting genome-scale metabolic models of bacteria and plankton to biogeochemical models of the water column. This integration aims to quantify the impact of microbial activities on climate. Key aspects include:</p>
+    <p>We connect genome-scale metabolic models of ocean bacteria and plankton to biogeochemical models of the water column, quantifying how microbial activity affects climate. This work includes:</p>
     <ul>
-      <li><strong>Metabolic Modeling</strong>: Developing detailed models of microbial metabolism to understand the functional capabilities of ocean bacteria and plankton.</li>
-      <li><strong>Biogeochemical Integration</strong>: Linking these metabolic models to biogeochemical cycles in the water column to assess nutrient and carbon fluxes.</li>
-      <li><strong>Climate Impact</strong>: Quantifying how microbial processes influence global climate patterns through their roles in carbon sequestration and nutrient cycling.</li>
+      <li><strong>Metabolic Modeling</strong>: detailed models of microbial metabolism in ocean bacteria and plankton.</li>
+      <li><strong>Biogeochemical Integration</strong>: linking these models to water-column cycles to assess nutrient and carbon fluxes.</li>
+      <li><strong>Climate Impact</strong>: quantifying how microbial carbon sequestration and nutrient cycling influence climate.</li>
     </ul>
     <p>This work is conducted in collaboration with the Center for Chemical Currencies of a Microbial Planet at the Woods Hole Oceanographic Institution.</p>
   </div>
@@ -73,15 +89,14 @@ permalink: /research/
 #### Gut Microbiome
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <div style="flex: 1 1 60%; padding: 10px;">
-    <p>Our gut microbiome research, conducted by UConn PhD students and undergrads in the Agmon lab, focuses on creating a comprehensive spatial dynamical model of the human intestines. Research areas include:</p>
+    <p>Our gut microbiome research, led by PhD students and undergraduates in the lab, builds a spatial dynamical model of the human intestines. Areas include:</p>
     <ul>
-      <li><strong>Ecological Niches</strong>: Quantifying the various niches within the intestines and their unique microbial communities, and the spatially structured environment with flows driven by peristalsis.</li>
-      <li><strong>Microbial Community Interactions</strong>: Exploring how different microbes interact and coexist, from molecular networks to whole-gut physiology, including interactions between microbes and host cells, such as mucus production by goblet cells.</li>
-      <li><strong>Layered Complexity</strong>: Addressing the hierarchical complexity and diverse interactions within the gut microbiome.</li>
-      <li><strong>Dynamic Modeling</strong>: Beginning with stoichiometric modeling, adding multi-species interactions, and incorporating processes like digestion, absorption, and peristalsis.</li>
-      <li><strong>Multi-Omics Data Integration</strong>: Incorporating multi-omics data to build detailed spatial models of the gut environment.</li>
+      <li><strong>Ecological Niches</strong>: mapping intestinal niches, their microbial communities, and the spatially structured environment shaped by peristaltic flow.</li>
+      <li><strong>Microbial Community Interactions</strong>: how microbes interact and coexist, from molecular networks to whole-gut physiology, including microbe–host interactions such as mucus production by goblet cells.</li>
+      <li><strong>Layered Complexity</strong>: addressing the hierarchical structure and diverse interactions of the gut microbiome.</li>
+      <li><strong>Dynamic Modeling</strong>: starting from stoichiometric models, then adding multi-species interactions and processes like digestion, absorption, and peristalsis.</li>
+      <li><strong>Multi-Omics Data Integration</strong>: incorporating multi-omics data into spatial models of the gut environment.</li>
     </ul>
-    <p>Our goal is to integrate diverse datasets and uncover the complex microbial interactions that influence gut health and disease.</p>
+    <p>The goal is to integrate these datasets and uncover the microbial interactions that drive gut health and disease.</p>
   </div>
 </div>
-
