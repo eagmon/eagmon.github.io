@@ -53,7 +53,7 @@ In his free time, Edwin enjoys playing or watching soccer.
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_rashmi.png" alt="Rashmi Kaldera Dissasekara" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/rashmi.jpg" alt="Rashmi Kaldera Dissasekara" class="people-image" />
     <div class="person-info">
         <strong>Rashmi Kaldera Dissasekara, PhD Student (Biomedical Sciences)</strong><br/>
     </div>
@@ -92,9 +92,5 @@ He aspires to build robust computational models that bridge molecular mechanisms
 - Alex Patrie, Software Developer
 
 # **Alumni**
-Amin Boroomand, postdoc with C-CoMP
-
-Jayde Schlesener, Bridge-to-PhD student with C-CoMP
-
-
-## The Vivarium lab is hiring! [see positions](https://eagmon.github.io/jobs/)
+- Amin Boroomand, postdoc with C-CoMP
+- Jayde Schlesener, Bridge-to-PhD student with C-CoMP
