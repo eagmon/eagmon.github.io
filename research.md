@@ -26,22 +26,6 @@ permalink: /research/
     <img src="/images/metamodeler_overview.png" 
          alt="Metamodeler Overview" style="width: 100%; height: auto;">
   </div>
-  <!-- Guiding Principles Posters -->
-  <div style="padding: 10px; width: 100%;">
-    <p>Two illustrated guides set out the principles behind this work. <em>The Ten Commandments of Computational Cell Biology</em> covers the modeling discipline behind each component; <em>Community-Based Assembly of Whole-Cell Models</em> describes how independently-built models combine into whole-cell understanding through shared interfaces and communal use.</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-      <figure style="flex: 1 1 45%; min-width: 280px; margin: 0; text-align: center;">
-        <img src="/images/ten_commandments_cell_biology.png"
-             alt="The Ten Commandments of Computational Cell Biology" style="width: 100%; height: auto;">
-        <figcaption style="font-size: 0.9em; padding-top: 6px;">The Ten Commandments of Computational Cell Biology — <a href="/images/ten_commandments_cell_biology.png" download>Download</a></figcaption>
-      </figure>
-      <figure style="flex: 1 1 45%; min-width: 280px; margin: 0; text-align: center;">
-        <img src="/images/constitutional_modeling.png"
-             alt="Community-Based Assembly of Whole-Cell Models" style="width: 100%; height: auto;">
-        <figcaption style="font-size: 0.9em; padding-top: 6px;">Community-Based Assembly of Whole-Cell Models — <a href="/images/constitutional_modeling.png" download>Download</a></figcaption>
-      </figure>
-    </div>
-  </div>
 </div>
 
 
