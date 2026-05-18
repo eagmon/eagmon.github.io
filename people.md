@@ -81,26 +81,10 @@ He aspires to build robust computational models that bridge molecular mechanisms
     </div>
 </div>
 
-<div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist1.png" alt="Isha Mendiratta" class="people-image" />
-    <div class="person-info">
-        <strong>Isha Mendiratta, Undergraduate researcher</strong><br/>
-    </div>
-</div>
-
-<div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist2.png" alt="Isha Mendiratta" class="people-image" />
-    <div class="person-info">
-        <strong>Colin Slavin, Undergraduate researcher</strong><br/>
-    </div>
-</div>
-
-<div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist3.png" alt="Christopher Rauch" class="people-image" />
-    <div class="person-info">
-        <strong>Christopher Rauch, Undergraduate researcher</strong><br/>
-    </div>
-</div>
+### Undergraduate Researchers
+- Isha Mendiratta
+- Colin Slavin
+- Christopher Rauch
 
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Isha Mendiratta" class="people-image" />

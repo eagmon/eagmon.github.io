@@ -138,6 +138,18 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/multiscale_cellular_networks.png" target="_blank">
+      <img src="/images/ai-artwork/multiscale_cellular_networks.png"
+           alt="Multiscale Cellular Networks">
+    </a>
+    <figcaption>
+      <span class="title">Multiscale Cellular Networks</span>
+      From molecular interactions to sub-cellular pathways to multi-cellular communities — the hierarchy of networks that gives rise to cellular life.
+      <a class="download" href="/images/ai-artwork/multiscale_cellular_networks.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/multiscale_bacterial_life.png" target="_blank">
       <img src="/images/ai-artwork/multiscale_bacterial_life.png"
            alt="Multiscale Bacterial Life">
