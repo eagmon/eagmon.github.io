@@ -86,29 +86,10 @@ He aspires to build robust computational models that bridge molecular mechanisms
 - Colin Slavin
 - Christopher Rauch
 
-<div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Isha Mendiratta" class="people-image" />
-    <div class="person-info">
-        <strong>Ryan Spangler, Software Director</strong><br/>
-        Ryan is working on the Simulating Microbial Systems project.
-    </div>
-</div>
-
-<div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Isha Mendiratta" class="people-image" />
-    <div class="person-info">
-        <strong>Boyan Beronov, Software Developer</strong><br/>
-        Boyan is a contractor at the Agmon lab, working on the Simulating Microbial Systems project and Discovering Unknome Functions project.
-    </div>
-</div>
-
-<div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist4.png" alt="Isha Mendiratta" class="people-image" />
-    <div class="person-info">
-        <strong>Alex Patrie, Software Developer</strong><br/>
-        Alex is working on the Simulating Microbial Systems project.
-    </div>
-</div>
+### Software Developers
+- Ryan Spangler, Software Director
+- Boyan Beronov, Software Developer
+- Alex Patrie, Software Developer
 
 # **Alumni**
 Amin Boroomand, postdoc with C-CoMP
