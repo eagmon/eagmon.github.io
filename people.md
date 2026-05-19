@@ -13,7 +13,7 @@ permalink: /people/
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran2024.JPG" alt="Eran Agmon" class="people-image" />
     <div class="person-info">
-        <strong>Eran Agmon, Principal Investigator</strong><br/>
+        <strong><a href="https://www.linkedin.com/in/eran-agmon/" target="_blank">Eran Agmon</a>, Principal Investigator</strong><br/>
         Eran is an Assistant Professor at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center. 
         His research involves leveraging software methods to combine heterogeneous datasets and diverse modeling methods to generate integrative multi-scale simulations of cellular ecosystems that span molecular to multi-cellular and ecological scales.
         When he’s not immersed in science, you might find him reading or <a href="https://eagmon.github.io/art/" target="_blank">painting</a>.
@@ -25,7 +25,7 @@ permalink: /people/
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_arnab.png" alt="Arnab Mutsuddy" class="people-image" />
     <div class="person-info">
-        <strong>Arnab Mutsuddy, Postdoc</strong><br/>
+        <strong><a href="https://www.linkedin.com/in/arnab-m-12120079/" target="_blank">Arnab Mutsuddy</a>, Postdoc</strong><br/>
         About Arnab
         <br/>
     </div>
@@ -34,7 +34,7 @@ permalink: /people/
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_tasnif.png" alt="Tasnif Rahman" class="people-image" />
     <div class="person-info">
-        <strong>Tasnif Rahman, Postdoc</strong><br/>
+        <strong><a href="https://www.linkedin.com/in/tasnif-rahman/" target="_blank">Tasnif Rahman</a>, Postdoc</strong><br/>
 Tasnif is working on spatial models of bacterial communities and their interactions with host tissues. 
 His PhD at the Rensselaer Polytechnic Institute involved creating multicellular mechanical models to study symmetry breaking in tissue and organ morphogenesis. He looks forward to developing his computational skills is excited about revisiting his expertise in bacteriology developed during his undergraduate studies in Microbiology. 
 Outside of the lab, Tasnif enjoys videogames, basketball and dance music!
@@ -55,14 +55,14 @@ In his free time, Edwin enjoys playing or watching soccer.
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/rashmi.jpg" alt="Rashmi Kaldera Dissasekara" class="people-image" />
     <div class="person-info">
-        <strong>Rashmi Kaldera Dissasekara, PhD Student (Biomedical Sciences)</strong><br/>
+        <strong><a href="https://www.linkedin.com/in/rashmi-dissasekara-8b8857241/" target="_blank">Rashmi Kaldera Dissasekara</a>, PhD Student (Biomedical Sciences)</strong><br/>
     </div>
 </div>
 
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/maya.jpeg" alt="Maya Abdalla" class="people-image" />
     <div class="person-info">
-        <strong>Maya Abdalla, PhD Student (Biomedical Sciences)</strong><br/>
+        <strong><a href="https://www.linkedin.com/in/maya-abdalla-871626210/" target="_blank">Maya Abdalla</a>, PhD Student (Biomedical Sciences)</strong><br/>
 Maya is working on integrating extracellular polymeric substances (EPS) and, eventually, a biofilm model. 
 Prior to joining UConn, Maya worked as a research assistant at Brigham and Women’s Hospital, where she managed and analyzed CT scans and data from participants in the Framingham Heart Study. 
 She previously participated in the Harvard T.H. Chan School of Public Health Summer Program in Biostatistics and Computational Biology. 
@@ -73,7 +73,7 @@ She aims to further develop her computational expertise and advance integrative 
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/tanvir.png" alt="Neyamat Khan Tanvir" class="people-image" />
     <div class="person-info">
-        <strong>Neyamat Khan Tanvir, PhD Student (Biomedical Sciences)</strong><br/>
+        <strong><a href="https://www.linkedin.com/in/neyamat-khan-tanvir/" target="_blank">Neyamat Khan Tanvir</a>, PhD Student (Biomedical Sciences)</strong><br/>
 Tanvir is working on modeling sRNA (small RNA) regulation in response to different stresses. 
 He aims to integrate immunological perspectives into whole-cell models to better capture host-pathogen dynamics. 
 Prior to joining UConn Health, he conducted whole-genome sequencing and comparative analysis of Citrobacter werkmanii. 
@@ -87,7 +87,7 @@ He aspires to build robust computational models that bridge molecular mechanisms
 - Christopher Rauch
 
 ### Software Developers
-- Ryan Spangler, Software Director
+- [Ryan Spangler](https://www.linkedin.com/in/ryankspangler/), Software Director
 - Boyan Beronov, Software Developer
 - Alex Patrie, Software Developer
 
