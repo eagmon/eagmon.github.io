@@ -54,6 +54,30 @@ permalink: /ai-artwork/
 <div class="ai-gallery">
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/we_choose_to_compose.png" target="_blank">
+      <img src="/images/ai-artwork/we_choose_to_compose.png"
+           alt="We Choose to Compose">
+    </a>
+    <figcaption>
+      <span class="title">We Choose to Compose</span>
+      Kennedy's "We choose to go to the Moon" reimagined as a call for compositional systems biology — to look inward into the complexity of living systems and build a unified, composable science of life.
+      <a class="download" href="/images/ai-artwork/we_choose_to_compose.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/a_compositional_address.png" target="_blank">
+      <img src="/images/ai-artwork/a_compositional_address.png"
+           alt="A Compositional Address">
+    </a>
+    <figcaption>
+      <span class="title">A Compositional Address</span>
+      Lincoln's Gettysburg Address reimagined for the unity of biological models — that from many fragmented efforts a shared, multiscale framework shall be born, and that no model shall remain alone.
+      <a class="download" href="/images/ai-artwork/a_compositional_address.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/agentic_wcm_factory.png" target="_blank">
       <img src="/images/ai-artwork/agentic_wcm_factory.png"
            alt="Agentic Whole-Cell Model Factory">
