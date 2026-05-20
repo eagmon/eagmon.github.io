@@ -54,6 +54,18 @@ permalink: /ai-artwork/
 <div class="ai-gallery">
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/i_have_a_dream.png" target="_blank">
+      <img src="/images/ai-artwork/i_have_a_dream.png"
+           alt="I Have a Dream">
+    </a>
+    <figcaption>
+      <span class="title">I Have a Dream</span>
+      King's "I Have a Dream" reimagined as a vision of unity in compositional systems biology — that models born in different languages, scales, and disciplines will one day sit together at the table of composition.
+      <a class="download" href="/images/ai-artwork/i_have_a_dream.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/we_choose_to_compose.png" target="_blank">
       <img src="/images/ai-artwork/we_choose_to_compose.png"
            alt="We Choose to Compose">
