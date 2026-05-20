@@ -49,6 +49,18 @@ permalink: /ai-artwork/
     margin-top: 0.35rem;
     font-size: 0.85em;
   }
+  .ai-set-images {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .ai-set-images a {
+    flex: 1 1 360px;
+    min-width: 0;
+  }
 </style>
 
 <div class="ai-gallery">
@@ -194,6 +206,25 @@ permalink: /ai-artwork/
       <span class="title">Multiscale Bacterial Life</span>
       A zoom from tissue to bacterium to phage — molecular crowding made visible across three scales of biological organization.
       <a class="download" href="/images/ai-artwork/multiscale_bacterial_life.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece ai-set">
+    <div class="ai-set-images">
+      <a href="/images/ai-artwork/wcm_tower_of_babel.png" target="_blank">
+        <img src="/images/ai-artwork/wcm_tower_of_babel.png"
+             alt="The Whole-Cell Model as a Tower of Babel">
+      </a>
+      <a href="/images/ai-artwork/wcm_tower_of_composition.png" target="_blank">
+        <img src="/images/ai-artwork/wcm_tower_of_composition.png"
+             alt="The Whole-Cell Model as a Tower of Composition">
+      </a>
+    </div>
+    <figcaption>
+      <span class="title">Two Towers: Babel and Composition</span>
+      A diptych on building the whole-cell model. On the left, a Bruegel-style Tower of Babel — models, methods, and equations heaped without a shared scaffold, straining and collapsing under their own incompatibility. On the right, the same ambition raised on a compositional systems biology scaffold — interfaces, standards, and orchestration that let every model stand together as one structure.
+      <a class="download" href="/images/ai-artwork/wcm_tower_of_babel.png" download>Download Babel</a> &nbsp;·&nbsp;
+      <a class="download" href="/images/ai-artwork/wcm_tower_of_composition.png" download>Download Composition</a>
     </figcaption>
   </figure>
 
