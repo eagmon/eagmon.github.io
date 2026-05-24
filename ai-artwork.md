@@ -233,6 +233,18 @@ permalink: /ai-artwork/
     </figcaption>
   </figure>
 
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/multiscale_bacterial_zoom.png" target="_blank">
+      <img src="/images/ai-artwork/multiscale_bacterial_zoom.png"
+           alt="Multiscale Bacterial Life — Eight Scales">
+    </a>
+    <figcaption>
+      <span class="title">Multiscale Bacterial Life — Eight Scales</span>
+      A continuous zoom across eight scales of bacterial life — from biofilm (~1 mm) down to atomic detail (~0.1 nm). Ecosystem, microcolony, single bacterium, cell envelope, membrane proteins, intracellular crowding, macromolecular machine, atomic structure.
+      <a class="download" href="/images/ai-artwork/multiscale_bacterial_zoom.png" download>Download</a>
+    </figcaption>
+  </figure>
+
   <figure class="ai-piece ai-set">
     <div class="ai-set-images">
       <a href="/images/ai-artwork/wcm_tower_of_babel.png" target="_blank">
