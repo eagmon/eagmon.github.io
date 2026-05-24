@@ -102,14 +102,14 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/agentic_wcm_factory.png" target="_blank">
-      <img src="/images/ai-artwork/agentic_wcm_factory.png"
-           alt="Agentic Whole-Cell Model Factory">
+    <a href="/images/ai-artwork/wcm_ecosystem_living_factory.png" target="_blank">
+      <img src="/images/ai-artwork/wcm_ecosystem_living_factory.png"
+           alt="Whole-Cell Model Ecosystem">
     </a>
     <figcaption>
-      <span class="title">Agentic Whole-Cell Model Factory</span>
-      An integrated, continuously learning system that connects experiments, AI agents, models, and human expertise to understand life.
-      <a class="download" href="/images/ai-artwork/agentic_wcm_factory.png" download>Download</a>
+      <span class="title">Whole-Cell Model Ecosystem</span>
+      A living factory for discovery. Many ideas compete, promising ones are expanded, and all are connected — a society of AI agents coordinating measurements, perturbations, and models around a continuously refined whole-cell simulation.
+      <a class="download" href="/images/ai-artwork/wcm_ecosystem_living_factory.png" download>Download</a>
     </figcaption>
   </figure>
 
@@ -122,6 +122,18 @@ permalink: /ai-artwork/
       <span class="title">Multiscale Human Model Factory</span>
       Integrating measurements and models across scales — from molecules to the whole human — into one coherent atlas.
       <a class="download" href="/images/ai-artwork/multiscale_human_model_factory.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/ai_guided_investigations.png" target="_blank">
+      <img src="/images/ai-artwork/ai_guided_investigations.png"
+           alt="AI-Guided Investigations for Multiscale Biological Modeling">
+    </a>
+    <figcaption>
+      <span class="title">AI-Guided Investigations for Multiscale Biological Modeling</span>
+      A living ecosystem of models, data, agents, and ideas. A collaborative system of AI agents and human experts that transforms questions and data into multiscale models, validated insights, and the next generation of discoveries.
+      <a class="download" href="/images/ai-artwork/ai_guided_investigations.png" download>Download</a>
     </figcaption>
   </figure>
 
@@ -158,6 +170,18 @@ permalink: /ai-artwork/
       <span class="title">The Open Market of Models</span>
       Ten principles for a competitive, composable, and innovative future — where models compete, compose, and circulate as living infrastructure.
       <a class="download" href="/images/ai-artwork/open_market_of_models.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/elements_of_the_cell.png" target="_blank">
+      <img src="/images/ai-artwork/elements_of_the_cell.png"
+           alt="Elements of the Cell">
+    </a>
+    <figcaption>
+      <span class="title">Elements of the Cell</span>
+      On boundary, self-production, and action in living form. A Euclid-style treatise on the cell — definitions, common notions, and propositions for a bounded, dissipative process that makes itself.
+      <a class="download" href="/images/ai-artwork/elements_of_the_cell.png" download>Download</a>
     </figcaption>
   </figure>
 
