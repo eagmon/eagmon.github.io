@@ -186,14 +186,14 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/multiscale_cellular_networks.png" target="_blank">
-      <img src="/images/ai-artwork/multiscale_cellular_networks.png"
-           alt="Multiscale Cellular Networks">
+    <a href="/images/ai-artwork/cell_leviathan.png" target="_blank">
+      <img src="/images/ai-artwork/cell_leviathan.png"
+           alt="The Cell Leviathan">
     </a>
     <figcaption>
-      <span class="title">Multiscale Cellular Networks</span>
-      From molecular interactions to sub-cellular pathways to multi-cellular communities — the hierarchy of networks that gives rise to cellular life.
-      <a class="download" href="/images/ai-artwork/multiscale_cellular_networks.png" download>Download</a>
+      <span class="title">The Cell Leviathan</span>
+      Eight laws of constraint. Life begins when chemistry comes under rule — boundary, surveillance, enforcement, and the sovereign that emerges from molecular obedience.
+      <a class="download" href="/images/ai-artwork/cell_leviathan.png" download>Download</a>
     </figcaption>
   </figure>
 
