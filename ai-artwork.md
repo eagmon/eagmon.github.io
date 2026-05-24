@@ -126,18 +126,6 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/ai_guided_investigations.png" target="_blank">
-      <img src="/images/ai-artwork/ai_guided_investigations.png"
-           alt="AI-Guided Investigations for Multiscale Biological Modeling">
-    </a>
-    <figcaption>
-      <span class="title">AI-Guided Investigations for Multiscale Biological Modeling</span>
-      A living ecosystem of models, data, agents, and ideas. A collaborative system of AI agents and human experts that transforms questions and data into multiscale models, validated insights, and the next generation of discoveries.
-      <a class="download" href="/images/ai-artwork/ai_guided_investigations.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
     <a href="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png" target="_blank">
       <img src="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png"
            alt="The Ten Commandments of Computational Cell Biology">
