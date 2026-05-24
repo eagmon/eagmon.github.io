@@ -224,11 +224,11 @@ permalink: /ai-artwork/
   <figure class="ai-piece">
     <a href="/images/ai-artwork/multiscale_bacterial_life.png" target="_blank">
       <img src="/images/ai-artwork/multiscale_bacterial_life.png"
-           alt="Multiscale Bacterial Life">
+           alt="Multiscale Bacterial Life — From Host to Machine">
     </a>
     <figcaption>
-      <span class="title">Multiscale Bacterial Life</span>
-      A zoom from tissue to bacterium to phage — molecular crowding made visible across three scales of biological organization.
+      <span class="title">Multiscale Bacterial Life — From Host to Machine</span>
+      A zoom from the whole human organism through organ, tissue niche, microcolony, single bacterium, and phage attachment down to the macromolecular machine — bacterial life situated in its host tissue context across seven scales.
       <a class="download" href="/images/ai-artwork/multiscale_bacterial_life.png" download>Download</a>
     </figcaption>
   </figure>
