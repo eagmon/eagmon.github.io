@@ -138,6 +138,18 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/model_must_testify.png" target="_blank">
+      <img src="/images/ai-artwork/model_must_testify.png"
+           alt="The Model Must Testify">
+    </a>
+    <figcaption>
+      <span class="title">The Model Must Testify</span>
+      A simulation becomes science when it can be questioned. Executable Conjecture Modeling moves evidence through a chain of custody — scoped assumptions, schema-checked artifacts, declared readouts, severe tests, three-part verdicts, and repairs that generate new predictions.
+      <a class="download" href="/images/ai-artwork/model_must_testify.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/open_market_of_models.png" target="_blank">
       <img src="/images/ai-artwork/open_market_of_models.png"
            alt="The Open Market of Models">
@@ -206,18 +218,6 @@ permalink: /ai-artwork/
       <span class="title">Multiscale Bacterial Life — Eight Scales</span>
       A continuous zoom across eight scales of bacterial life — from biofilm (~1 mm) down to atomic detail (~0.1 nm). Ecosystem, microcolony, single bacterium, cell envelope, membrane proteins, intracellular crowding, macromolecular machine, atomic structure.
       <a class="download" href="/images/ai-artwork/multiscale_bacterial_zoom.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
-    <a href="/images/ai-artwork/model_must_testify.png" target="_blank">
-      <img src="/images/ai-artwork/model_must_testify.png"
-           alt="The Model Must Testify">
-    </a>
-    <figcaption>
-      <span class="title">The Model Must Testify</span>
-      A simulation becomes science when it can be questioned. Executable Conjecture Modeling moves evidence through a chain of custody — scoped assumptions, schema-checked artifacts, declared readouts, severe tests, three-part verdicts, and repairs that generate new predictions.
-      <a class="download" href="/images/ai-artwork/model_must_testify.png" download>Download</a>
     </figcaption>
   </figure>
 
