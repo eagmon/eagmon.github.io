@@ -66,18 +66,6 @@ permalink: /ai-artwork/
 <div class="ai-gallery">
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/i_have_a_dream.png" target="_blank">
-      <img src="/images/ai-artwork/i_have_a_dream.png"
-           alt="I Have a Dream">
-    </a>
-    <figcaption>
-      <span class="title">I Have a Dream</span>
-      King's "I Have a Dream" reimagined as a vision of unity in compositional systems biology — that models born in different languages, scales, and disciplines will one day sit together at the table of composition.
-      <a class="download" href="/images/ai-artwork/i_have_a_dream.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
     <a href="/images/ai-artwork/we_choose_to_compose.png" target="_blank">
       <img src="/images/ai-artwork/we_choose_to_compose.png"
            alt="We Choose to Compose">
@@ -182,18 +170,6 @@ permalink: /ai-artwork/
       <span class="title">The Political Economy of the Cell</span>
       Ten laws of biological capital. The cell is not a machine — it is an economy that negotiates its survival under thermodynamic constraint.
       <a class="download" href="/images/ai-artwork/political_economy_of_the_cell.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
-    <a href="/images/ai-artwork/machiavellian_cell.png" target="_blank">
-      <img src="/images/ai-artwork/machiavellian_cell.png"
-           alt="The Machiavellian Cell">
-    </a>
-    <figcaption>
-      <span class="title">The Machiavellian Cell</span>
-      Eight rules for governance — survival, redundancy, conditional loyalty, and the use of death as an instrument of cellular order.
-      <a class="download" href="/images/ai-artwork/machiavellian_cell.png" download>Download</a>
     </figcaption>
   </figure>
 
