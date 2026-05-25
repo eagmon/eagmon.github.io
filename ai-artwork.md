@@ -209,6 +209,18 @@ permalink: /ai-artwork/
     </figcaption>
   </figure>
 
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/model_must_testify.png" target="_blank">
+      <img src="/images/ai-artwork/model_must_testify.png"
+           alt="The Model Must Testify">
+    </a>
+    <figcaption>
+      <span class="title">The Model Must Testify</span>
+      A simulation becomes science when it can be questioned. Executable Conjecture Modeling moves evidence through a chain of custody — scoped assumptions, schema-checked artifacts, declared readouts, severe tests, three-part verdicts, and repairs that generate new predictions.
+      <a class="download" href="/images/ai-artwork/model_must_testify.png" download>Download</a>
+    </figcaption>
+  </figure>
+
   <figure class="ai-piece ai-set">
     <div class="ai-set-images">
       <a href="/images/ai-artwork/wcm_tower_of_babel.png" target="_blank">
