@@ -90,14 +90,14 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/wcm_ecosystem_living_factory.png" target="_blank">
-      <img src="/images/ai-artwork/wcm_ecosystem_living_factory.png"
-           alt="Whole-Cell Model Ecosystem">
+    <a href="/images/ai-artwork/computational_vivarium_architecture.png" target="_blank">
+      <img src="/images/ai-artwork/computational_vivarium_architecture.png"
+           alt="The Computational Vivarium">
     </a>
     <figcaption>
-      <span class="title">Whole-Cell Model Ecosystem</span>
-      A living factory for discovery. Many ideas compete, promising ones are expanded, and all are connected — a society of AI agents coordinating measurements, perturbations, and models around a continuously refined whole-cell simulation.
-      <a class="download" href="/images/ai-artwork/wcm_ecosystem_living_factory.png" download>Download</a>
+      <span class="title">The Computational Vivarium</span>
+      A schematic of the closed-loop scientific inquiry cycle around a living cell simulation — human experts, an AI integration layer, structural and conservation checks, and an ECM orchestrator threading data, models, and decisions through provenance-tracked computational infrastructure.
+      <a class="download" href="/images/ai-artwork/computational_vivarium_architecture.png" download>Download</a>
     </figcaption>
   </figure>
 
@@ -150,14 +150,14 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/computational_vivarium_architecture.png" target="_blank">
-      <img src="/images/ai-artwork/computational_vivarium_architecture.png"
-           alt="The Computational Vivarium">
+    <a href="/images/ai-artwork/wcm_ecosystem_living_factory.png" target="_blank">
+      <img src="/images/ai-artwork/wcm_ecosystem_living_factory.png"
+           alt="Whole-Cell Model Ecosystem">
     </a>
     <figcaption>
-      <span class="title">The Computational Vivarium</span>
-      A schematic of the closed-loop scientific inquiry cycle around a living cell simulation — human experts, an AI integration layer, structural and conservation checks, and an ECM orchestrator threading data, models, and decisions through provenance-tracked computational infrastructure.
-      <a class="download" href="/images/ai-artwork/computational_vivarium_architecture.png" download>Download</a>
+      <span class="title">Whole-Cell Model Ecosystem</span>
+      A living factory for discovery. Many ideas compete, promising ones are expanded, and all are connected — a society of AI agents coordinating measurements, perturbations, and models around a continuously refined whole-cell simulation.
+      <a class="download" href="/images/ai-artwork/wcm_ecosystem_living_factory.png" download>Download</a>
     </figcaption>
   </figure>
 
