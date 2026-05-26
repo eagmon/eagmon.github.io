@@ -150,18 +150,6 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/wcm_ecosystem_living_factory.png" target="_blank">
-      <img src="/images/ai-artwork/wcm_ecosystem_living_factory.png"
-           alt="Whole-Cell Model Ecosystem">
-    </a>
-    <figcaption>
-      <span class="title">Whole-Cell Model Ecosystem</span>
-      A living factory for discovery. Many ideas compete, promising ones are expanded, and all are connected — a society of AI agents coordinating measurements, perturbations, and models around a continuously refined whole-cell simulation.
-      <a class="download" href="/images/ai-artwork/wcm_ecosystem_living_factory.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
     <a href="/images/ai-artwork/open_market_of_models.png" target="_blank">
       <img src="/images/ai-artwork/open_market_of_models.png"
            alt="The Open Market of Models">
