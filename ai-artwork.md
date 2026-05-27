@@ -90,6 +90,18 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/living_factory_for_discovery.png" target="_blank">
+      <img src="/images/ai-artwork/living_factory_for_discovery.png"
+           alt="A Living Factory for Discovery">
+    </a>
+    <figcaption>
+      <span class="title">A Living Factory for Discovery</span>
+      An ecosystem of models, hypotheses, and investigations around a whole-cell simulation — measurement and perturbation technologies feeding a coordinated society of AI agents that build, run, and refine models. Many ideas compete, proven ideas are expanded, and all are connected.
+      <a class="download" href="/images/ai-artwork/living_factory_for_discovery.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/computational_vivarium_architecture.png" target="_blank">
       <img src="/images/ai-artwork/computational_vivarium_architecture.png"
            alt="The Computational Vivarium">
