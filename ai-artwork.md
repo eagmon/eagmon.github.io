@@ -186,6 +186,18 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/marxist_cell.png" target="_blank">
+      <img src="/images/ai-artwork/marxist_cell.png"
+           alt="The Marxist Cell">
+    </a>
+    <figcaption>
+      <span class="title">The Marxist Cell</span>
+      Ten theses on the cell as collective. No organelle owns the means of production — ribosomes, mitochondria, membranes, and genome belong to the whole. Homeostasis is struggle, metabolism is class conflict, and cooperation is survival.
+      <a class="download" href="/images/ai-artwork/marxist_cell.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/cell_leviathan.png" target="_blank">
       <img src="/images/ai-artwork/cell_leviathan.png"
            alt="The Cell Leviathan">
@@ -194,6 +206,18 @@ permalink: /ai-artwork/
       <span class="title">The Cell Leviathan</span>
       Eight laws of constraint. Life begins when chemistry comes under rule — boundary, surveillance, enforcement, and the sovereign that emerges from molecular obedience.
       <a class="download" href="/images/ai-artwork/cell_leviathan.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/machiavellian_cell.png" target="_blank">
+      <img src="/images/ai-artwork/machiavellian_cell.png"
+           alt="The Machiavellian Cell">
+    </a>
+    <figcaption>
+      <span class="title">The Machiavellian Cell</span>
+      Eight rules for governance. Survival is the only objective; stability is performed, not possessed; loyalty is conditional; perception is policy; death is an instrument of statecraft. In the microscopic realm, power belongs to those who endure.
+      <a class="download" href="/images/ai-artwork/machiavellian_cell.png" download>Download</a>
     </figcaption>
   </figure>
 
