@@ -66,18 +66,6 @@ permalink: /ai-artwork/
 <div class="ai-gallery">
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/odyssey_of_the_cell.png" target="_blank">
-      <img src="/images/ai-artwork/odyssey_of_the_cell.png"
-           alt="The Odyssey of the Cell">
-    </a>
-    <figcaption>
-      <span class="title">The Odyssey of the Cell</span>
-      A living vessel finds its way through a sea that shapes every move. The cell as a ship — membrane hull and sail, cytoskeleton rigging, receptors on lookout, nucleus charting from memory — navigating immune storms, toxin whirlpools, siren signals, and the narrow passage of competing pressures. A cell does not command the sea from afar; it lives by navigating within it.
-      <a class="download" href="/images/ai-artwork/odyssey_of_the_cell.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
     <a href="/images/ai-artwork/we_choose_to_compose.png" target="_blank">
       <img src="/images/ai-artwork/we_choose_to_compose.png"
            alt="We Choose to Compose">
@@ -138,26 +126,14 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png" target="_blank">
-      <img src="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png"
-           alt="The Ten Commandments of Computational Cell Biology">
+    <a href="/images/ai-artwork/odyssey_of_the_cell.png" target="_blank">
+      <img src="/images/ai-artwork/odyssey_of_the_cell.png"
+           alt="The Odyssey of the Cell">
     </a>
     <figcaption>
-      <span class="title">The Ten Commandments of Computational Cell Biology</span>
-      The modeling discipline behind each component of a whole-cell model — ten rules for building biology that holds together.
-      <a class="download" href="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
-    <a href="/images/ai-artwork/community_based_assembly_of_whole_cell_models.png" target="_blank">
-      <img src="/images/ai-artwork/community_based_assembly_of_whole_cell_models.png"
-           alt="Community-Based Assembly of Whole-Cell Models">
-    </a>
-    <figcaption>
-      <span class="title">Community-Based Assembly of Whole-Cell Models</span>
-      How independently-built models combine into whole-cell understanding through shared interfaces and communal use.
-      <a class="download" href="/images/ai-artwork/community_based_assembly_of_whole_cell_models.png" download>Download</a>
+      <span class="title">The Odyssey of the Cell</span>
+      A living vessel finds its way through a sea that shapes every move. The cell as a ship — membrane hull and sail, cytoskeleton rigging, receptors on lookout, nucleus charting from memory — navigating immune storms, toxin whirlpools, siren signals, and the narrow passage of competing pressures. A cell does not command the sea from afar; it lives by navigating within it.
+      <a class="download" href="/images/ai-artwork/odyssey_of_the_cell.png" download>Download</a>
     </figcaption>
   </figure>
 
@@ -266,6 +242,30 @@ permalink: /ai-artwork/
       <span class="title">Multiscale Bacterial Life — Eight Scales</span>
       A continuous zoom across eight scales of bacterial life — from biofilm (~1 mm) down to atomic detail (~0.1 nm). Ecosystem, microcolony, single bacterium, cell envelope, membrane proteins, intracellular crowding, macromolecular machine, atomic structure.
       <a class="download" href="/images/ai-artwork/multiscale_bacterial_zoom.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png" target="_blank">
+      <img src="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png"
+           alt="The Ten Commandments of Computational Cell Biology">
+    </a>
+    <figcaption>
+      <span class="title">The Ten Commandments of Computational Cell Biology</span>
+      The modeling discipline behind each component of a whole-cell model — ten rules for building biology that holds together.
+      <a class="download" href="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/community_based_assembly_of_whole_cell_models.png" target="_blank">
+      <img src="/images/ai-artwork/community_based_assembly_of_whole_cell_models.png"
+           alt="Community-Based Assembly of Whole-Cell Models">
+    </a>
+    <figcaption>
+      <span class="title">Community-Based Assembly of Whole-Cell Models</span>
+      How independently-built models combine into whole-cell understanding through shared interfaces and communal use.
+      <a class="download" href="/images/ai-artwork/community_based_assembly_of_whole_cell_models.png" download>Download</a>
     </figcaption>
   </figure>
 
