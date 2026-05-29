@@ -257,23 +257,4 @@ permalink: /ai-artwork/
     </figcaption>
   </figure>
 
-  <figure class="ai-piece ai-set">
-    <div class="ai-set-images">
-      <a href="/images/ai-artwork/wcm_tower_of_babel.png" target="_blank">
-        <img src="/images/ai-artwork/wcm_tower_of_babel.png"
-             alt="The Whole-Cell Model as a Tower of Babel">
-      </a>
-      <a href="/images/ai-artwork/wcm_tower_of_composition.png" target="_blank">
-        <img src="/images/ai-artwork/wcm_tower_of_composition.png"
-             alt="The Whole-Cell Model as a Tower of Composition">
-      </a>
-    </div>
-    <figcaption>
-      <span class="title">Two Towers: Babel and Composition</span>
-      A diptych on building the whole-cell model. On the left, a Bruegel-style Tower of Babel — models, methods, and equations heaped without a shared scaffold, straining and collapsing under their own incompatibility. On the right, the same ambition raised on a compositional systems biology scaffold — interfaces, standards, and orchestration that let every model stand together as one structure.
-      <a class="download" href="/images/ai-artwork/wcm_tower_of_babel.png" download>Download Babel</a> &nbsp;·&nbsp;
-      <a class="download" href="/images/ai-artwork/wcm_tower_of_composition.png" download>Download Composition</a>
-    </figcaption>
-  </figure>
-
 </div>
