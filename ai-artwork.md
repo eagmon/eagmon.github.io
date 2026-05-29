@@ -66,6 +66,18 @@ permalink: /ai-artwork/
 <div class="ai-gallery">
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/odyssey_of_the_cell.png" target="_blank">
+      <img src="/images/ai-artwork/odyssey_of_the_cell.png"
+           alt="The Odyssey of the Cell">
+    </a>
+    <figcaption>
+      <span class="title">The Odyssey of the Cell</span>
+      A living vessel finds its way through a sea that shapes every move. The cell as a ship — membrane hull and sail, cytoskeleton rigging, receptors on lookout, nucleus charting from memory — navigating immune storms, toxin whirlpools, siren signals, and the narrow passage of competing pressures. A cell does not command the sea from afar; it lives by navigating within it.
+      <a class="download" href="/images/ai-artwork/odyssey_of_the_cell.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/we_choose_to_compose.png" target="_blank">
       <img src="/images/ai-artwork/we_choose_to_compose.png"
            alt="We Choose to Compose">
