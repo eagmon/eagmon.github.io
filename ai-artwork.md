@@ -210,18 +210,6 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/marxist_cell.png" target="_blank">
-      <img src="/images/ai-artwork/marxist_cell.png"
-           alt="The Marxist Cell">
-    </a>
-    <figcaption>
-      <span class="title">The Marxist Cell</span>
-      Ten theses on the cell as collective. No organelle owns the means of production — ribosomes, mitochondria, membranes, and genome belong to the whole. Homeostasis is struggle, metabolism is class conflict, and cooperation is survival.
-      <a class="download" href="/images/ai-artwork/marxist_cell.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
     <a href="/images/ai-artwork/cell_leviathan.png" target="_blank">
       <img src="/images/ai-artwork/cell_leviathan.png"
            alt="The Cell Leviathan">
