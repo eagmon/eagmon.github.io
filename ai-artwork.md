@@ -138,6 +138,18 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/organism_ship_of_theseus.png" target="_blank">
+      <img src="/images/ai-artwork/organism_ship_of_theseus.png"
+           alt="The Organism as Ship of Theseus">
+    </a>
+    <figcaption>
+      <span class="title">The Organism as Ship of Theseus</span>
+      An organism replaces nearly every molecule and cell it is made of, yet remains itself. The ancient puzzle of the ship whose planks are swapped one by one becomes biology's defining fact — identity is not the matter but the pattern that persists through continuous turnover. The cell is a process, not a substance.
+      <a class="download" href="/images/ai-artwork/organism_ship_of_theseus.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/model_must_testify.png" target="_blank">
       <img src="/images/ai-artwork/model_must_testify.png"
            alt="The Model Must Testify">
@@ -146,6 +158,18 @@ permalink: /ai-artwork/
       <span class="title">The Model Must Testify</span>
       A simulation becomes science when it can be questioned. Executable Conjecture Modeling moves evidence through a chain of custody — scoped assumptions, schema-checked artifacts, declared readouts, severe tests, three-part verdicts, and repairs that generate new predictions.
       <a class="download" href="/images/ai-artwork/model_must_testify.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/model_must_graduate_whole_cell.png" target="_blank">
+      <img src="/images/ai-artwork/model_must_graduate_whole_cell.png"
+           alt="The Model Must Graduate">
+    </a>
+    <figcaption>
+      <span class="title">The Model Must Graduate</span>
+      No model joins the whole cell until it has earned its place. A candidate model advances through a curriculum of tests — scoped, schema-checked, and severely examined — before it is admitted into the larger whole-cell model. Membership is conferred by proof, not assertion.
+      <a class="download" href="/images/ai-artwork/model_must_graduate_whole_cell.png" download>Download</a>
     </figcaption>
   </figure>
 
@@ -246,18 +270,6 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png" target="_blank">
-      <img src="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png"
-           alt="The Ten Commandments of Computational Cell Biology">
-    </a>
-    <figcaption>
-      <span class="title">The Ten Commandments of Computational Cell Biology</span>
-      The modeling discipline behind each component of a whole-cell model — ten rules for building biology that holds together.
-      <a class="download" href="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
     <a href="/images/ai-artwork/community_based_assembly_of_whole_cell_models.png" target="_blank">
       <img src="/images/ai-artwork/community_based_assembly_of_whole_cell_models.png"
            alt="Community-Based Assembly of Whole-Cell Models">
@@ -266,6 +278,18 @@ permalink: /ai-artwork/
       <span class="title">Community-Based Assembly of Whole-Cell Models</span>
       How independently-built models combine into whole-cell understanding through shared interfaces and communal use.
       <a class="download" href="/images/ai-artwork/community_based_assembly_of_whole_cell_models.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png" target="_blank">
+      <img src="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png"
+           alt="The Ten Commandments of Computational Cell Biology">
+    </a>
+    <figcaption>
+      <span class="title">The Ten Commandments of Computational Cell Biology</span>
+      The modeling discipline behind each component of a whole-cell model — ten rules for building biology that holds together.
+      <a class="download" href="/images/ai-artwork/ten_commandments_of_computational_cell_biology.png" download>Download</a>
     </figcaption>
   </figure>
 
