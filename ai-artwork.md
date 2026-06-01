@@ -126,30 +126,6 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/model_must_testify.png" target="_blank">
-      <img src="/images/ai-artwork/model_must_testify.png"
-           alt="The Model Must Testify">
-    </a>
-    <figcaption>
-      <span class="title">The Model Must Testify</span>
-      A simulation becomes science when it can be questioned. Executable Conjecture Modeling moves evidence through a chain of custody — scoped assumptions, schema-checked artifacts, declared readouts, severe tests, three-part verdicts, and repairs that generate new predictions.
-      <a class="download" href="/images/ai-artwork/model_must_testify.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
-    <a href="/images/ai-artwork/model_must_graduate_whole_cell.png" target="_blank">
-      <img src="/images/ai-artwork/model_must_graduate_whole_cell.png"
-           alt="The Model Must Graduate">
-    </a>
-    <figcaption>
-      <span class="title">The Model Must Graduate</span>
-      No model joins the whole cell until it has earned its place. A candidate model advances through a curriculum of tests — scoped, schema-checked, and severely examined — before it is admitted into the larger whole-cell model. Membership is conferred by proof, not assertion.
-      <a class="download" href="/images/ai-artwork/model_must_graduate_whole_cell.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
     <a href="/images/ai-artwork/open_market_of_models.png" target="_blank">
       <img src="/images/ai-artwork/open_market_of_models.png"
            alt="The Open Market of Models">
@@ -170,6 +146,30 @@ permalink: /ai-artwork/
       <span class="title">The Cell is a Bureaucracy</span>
       Molecules do the work. Systems do the paperwork. From signal to action, a long chain of authorization — where every step is documented, every decision recorded, and no molecule acts alone.
       <a class="download" href="/images/ai-artwork/cell_is_a_bureaucracy.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/model_must_graduate_whole_cell.png" target="_blank">
+      <img src="/images/ai-artwork/model_must_graduate_whole_cell.png"
+           alt="The Model Must Graduate">
+    </a>
+    <figcaption>
+      <span class="title">The Model Must Graduate</span>
+      No model joins the whole cell until it has earned its place. A candidate model advances through a curriculum of tests — scoped, schema-checked, and severely examined — before it is admitted into the larger whole-cell model. Membership is conferred by proof, not assertion.
+      <a class="download" href="/images/ai-artwork/model_must_graduate_whole_cell.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/model_must_testify.png" target="_blank">
+      <img src="/images/ai-artwork/model_must_testify.png"
+           alt="The Model Must Testify">
+    </a>
+    <figcaption>
+      <span class="title">The Model Must Testify</span>
+      A simulation becomes science when it can be questioned. Executable Conjecture Modeling moves evidence through a chain of custody — scoped assumptions, schema-checked artifacts, declared readouts, severe tests, three-part verdicts, and repairs that generate new predictions.
+      <a class="download" href="/images/ai-artwork/model_must_testify.png" download>Download</a>
     </figcaption>
   </figure>
 
