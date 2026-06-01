@@ -150,6 +150,18 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/political_economy_of_the_cell.png" target="_blank">
+      <img src="/images/ai-artwork/political_economy_of_the_cell.png"
+           alt="The Political Economy of the Cell">
+    </a>
+    <figcaption>
+      <span class="title">The Political Economy of the Cell</span>
+      Ten laws of biological capital. The cell is not a machine — it is an economy that negotiates its survival under thermodynamic constraint.
+      <a class="download" href="/images/ai-artwork/political_economy_of_the_cell.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/model_must_graduate_whole_cell.png" target="_blank">
       <img src="/images/ai-artwork/model_must_graduate_whole_cell.png"
            alt="The Model Must Graduate">
@@ -182,18 +194,6 @@ permalink: /ai-artwork/
       <span class="title">Elements of the Cell</span>
       On boundary, self-production, and action in living form. A Euclid-style treatise on the cell — definitions, common notions, and propositions for a bounded, dissipative process that makes itself.
       <a class="download" href="/images/ai-artwork/elements_of_the_cell.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
-    <a href="/images/ai-artwork/political_economy_of_the_cell.png" target="_blank">
-      <img src="/images/ai-artwork/political_economy_of_the_cell.png"
-           alt="The Political Economy of the Cell">
-    </a>
-    <figcaption>
-      <span class="title">The Political Economy of the Cell</span>
-      Ten laws of biological capital. The cell is not a machine — it is an economy that negotiates its survival under thermodynamic constraint.
-      <a class="download" href="/images/ai-artwork/political_economy_of_the_cell.png" download>Download</a>
     </figcaption>
   </figure>
 
