@@ -90,6 +90,30 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/living_factory_for_discovery.png" target="_blank">
+      <img src="/images/ai-artwork/living_factory_for_discovery.png"
+           alt="A Living Factory for Discovery">
+    </a>
+    <figcaption>
+      <span class="title">A Living Factory for Discovery</span>
+      An ecosystem of models, hypotheses, and investigations around a whole-cell simulation — measurement and perturbation technologies feeding a coordinated society of AI agents that build, run, and refine models. Many ideas compete, proven ideas are expanded, and all are connected.
+      <a class="download" href="/images/ai-artwork/living_factory_for_discovery.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/multiscale_human_model_factory.png" target="_blank">
+      <img src="/images/ai-artwork/multiscale_human_model_factory.png"
+           alt="Multiscale Human Model Factory">
+    </a>
+    <figcaption>
+      <span class="title">Multiscale Human Model Factory</span>
+      Integrating measurements and models across scales — from molecules to the whole human — into one coherent atlas.
+      <a class="download" href="/images/ai-artwork/multiscale_human_model_factory.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/computational_vivarium_architecture.png" target="_blank">
       <img src="/images/ai-artwork/computational_vivarium_architecture.png"
            alt="The Computational Vivarium">
@@ -242,30 +266,6 @@ permalink: /ai-artwork/
       <span class="title">Multiscale Bacterial Life — Eight Scales</span>
       A continuous zoom across eight scales of bacterial life — from biofilm (~1 mm) down to atomic detail (~0.1 nm). Ecosystem, microcolony, single bacterium, cell envelope, membrane proteins, intracellular crowding, macromolecular machine, atomic structure.
       <a class="download" href="/images/ai-artwork/multiscale_bacterial_zoom.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
-    <a href="/images/ai-artwork/living_factory_for_discovery.png" target="_blank">
-      <img src="/images/ai-artwork/living_factory_for_discovery.png"
-           alt="A Living Factory for Discovery">
-    </a>
-    <figcaption>
-      <span class="title">A Living Factory for Discovery</span>
-      An ecosystem of models, hypotheses, and investigations around a whole-cell simulation — measurement and perturbation technologies feeding a coordinated society of AI agents that build, run, and refine models. Many ideas compete, proven ideas are expanded, and all are connected.
-      <a class="download" href="/images/ai-artwork/living_factory_for_discovery.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
-    <a href="/images/ai-artwork/multiscale_human_model_factory.png" target="_blank">
-      <img src="/images/ai-artwork/multiscale_human_model_factory.png"
-           alt="Multiscale Human Model Factory">
-    </a>
-    <figcaption>
-      <span class="title">Multiscale Human Model Factory</span>
-      Integrating measurements and models across scales — from molecules to the whole human — into one coherent atlas.
-      <a class="download" href="/images/ai-artwork/multiscale_human_model_factory.png" download>Download</a>
     </figcaption>
   </figure>
 
