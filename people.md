@@ -81,6 +81,13 @@ He aspires to build robust computational models that bridge molecular mechanisms
     </div>
 </div>
 
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/matt.png" alt="Matt Zingarella" class="people-image" />
+    <div class="person-info">
+        <strong>Matt Zingarella, Masters Student (Applied Genomics)</strong><br/>
+    </div>
+</div>
+
 ### Undergraduate Researchers
 - Isha Mendiratta
 - Colin Slavin
