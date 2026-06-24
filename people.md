@@ -88,16 +88,14 @@ He aspires to build robust computational models that bridge molecular mechanisms
     </div>
 </div>
 
-### Undergraduate Researchers
-- Isha Mendiratta
-- Colin Slavin
-- Christopher Rauch
-
 ### Software Developers
-- [Ryan Spangler](https://www.linkedin.com/in/ryankspangler/), Software Director
 - Boyan Beronov, Software Developer
 - Alex Patrie, Software Developer
 
 # **Alumni**
+- [Ryan Spangler](https://www.linkedin.com/in/ryankspangler/), Software Director
 - Amin Boroomand, postdoc with C-CoMP
 - Jayde Schlesener, Bridge-to-PhD student with C-CoMP
+- Isha Mendiratta, Undergraduate Researcher
+- Colin Slavin, Undergraduate Researcher
+- Christopher Rauch, Undergraduate Researcher
