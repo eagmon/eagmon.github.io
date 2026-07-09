@@ -19,7 +19,7 @@ layout: default
     </p>
 
     <p>
-    To support this vision, we are building <a href="https://vivarium-collective.github.io">Vivarium</a> –- an open-source 
+    To support this vision, we are building <a href="https://github.com/vivarium-collective">Vivarium</a> –- an open-source 
     ecosystem of modular biological models. We have several projects that apply Vivarium in the domains of single cell 
     bacterial physiology, community interactions in microbiomes, synthetic cells, and the origins of life.
     </p>
@@ -39,17 +39,16 @@ layout: default
 [DARPA Discovering Unknome Function](https://www.darpa.mil/research/programs/duf) \
 [John Templeton Foundation Science of Purpose](https://www.templeton.org/internal-competiton-fund/purpose-initiative)
 
-### About Vivarium: 
+### Vivarium &amp; Compositional Systems Biology:
 
-[vivarium-core](https://github.com/vivarium-collective/vivarium-core) \
-[Vivarium Collective](https://vivarium-collective.github.io) \
-[Vivarium Documentation](https://vivarium-core.readthedocs.io/en/latest/) 
-
-### Compositional Systems Biology and Process Bigraphs:
-
+[Software &amp; Framework](/software/) \
+[Vivarium Collective on GitHub](https://github.com/vivarium-collective) \
+[Process Bigraph](https://github.com/vivarium-collective/process-bigraph) \
 [Foundations of a Compositional Systems Biology](https://arxiv.org/abs/2408.00942) \
-[Process Bigraph on Github](https://github.com/vivarium-collective/process-bigraph) \
-[Process Bigraph Supplemental Materials](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphSupplement2025.pdf)
+[Process Bigraphs and the Architecture of Compositional Systems Biology](https://arxiv.org/abs/2512.23754) \
+[Process Bigraph Supplemental Materials](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphSupplement2025.pdf) \
+[Video: Process Bigraphs — Modeling Life (download)](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphs_ModelingLife.mp4) \
+[Video: Bigraphs — A Universal Language (download)](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Bigraphs_UniversalLanguage.mp4)
 
 ### Other Ongoing Collaborations
 - [Covert lab E. coli Model](https://www.covert.stanford.edu)
