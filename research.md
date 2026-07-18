@@ -19,7 +19,8 @@ permalink: /research/
     </ul>
     <p>The goal is to reduce the friction of building and sharing complex biological models, creating an open ecosystem where multiscale simulations evolve through contributions from many research groups.</p>
     <p>This infrastructure is being built as <strong>Vivarium 2.0</strong>, a redesign of the Vivarium framework around the process bigraph formalism. It introduces a typed schema system and composition engine that make models easier to define, validate, compose, and visualize. The core software is developed openly across <a href="https://github.com/vivarium-collective/process-bigraph">process-bigraph</a> (the composition engine), <a href="https://github.com/vivarium-collective/bigraph-schema">bigraph-schema</a> (the type and schema system), and <a href="https://github.com/vivarium-collective/bigraph-viz">bigraph-viz</a> (visualization of composite models).</p>
-    <p>The approach rests on a formal foundation: process bigraphs give a rigorous mathematical account of how heterogeneous processes share state and compose, keeping combined models well-defined. See the <a href="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphSupplement2025.pdf">Process Bigraph Supplemental Materials</a> for the formal treatment.</p>
+    <p>The approach rests on a formal foundation: process bigraphs give a rigorous mathematical account of how heterogeneous processes share state and compose, keeping combined models well-defined. See <a href="https://arxiv.org/abs/2512.23754">Process Bigraphs and the Architecture of Compositional Systems Biology</a> and the <a href="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphSupplement2025.pdf">Process Bigraph Supplemental Materials</a> for the formal treatment.</p>
+    <p>An overview of the framework, tools, and models built on it is on the <a href="/software/">Software</a> page.</p>
   </div>
   <!-- Figure Section -->
   <div style="padding: 10px; width: 100%;">
@@ -44,7 +45,7 @@ permalink: /research/
       <li><strong>Model environmental context</strong> by testing how nutrients and stressors shape adaptation and behavior.</li>
       <li><strong>Enable simulation-based inference</strong> using probabilistic and ML methods for parameter estimation and experimental design.</li>
     </ul>
-    <p>By unifying diverse data in an extensible simulation, the model supports systems-level reasoning and discovery in microbial physiology.</p>
+    <p>By unifying diverse data in an extensible simulation, the model supports systems-level reasoning and discovery in microbial physiology. The model is developed openly as <a href="https://github.com/vivarium-collective/v2ecoli">v2ecoli</a> (<a href="https://vivarium-collective.github.io/v2ecoli/dashboard">live dashboard</a>), with a spatial counterpart in <a href="https://github.com/vivarium-collective/3d-ecoli">3d-ecoli</a> (<a href="https://pub-eb913fbbdc584bd7add047c823570b13.r2.dev/viewer/index.html?models=https://pub-eb913fbbdc584bd7add047c823570b13.r2.dev/ecoli-3d/viz/3d/models.json">live 3D viewer</a>).</p>
   </div> 
   <div style="width: 100%; padding: 10px;"> 
       <video autoplay loop muted playsinline style="width: 100%; height: auto;" controls>
