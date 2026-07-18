@@ -93,7 +93,7 @@ He aspires to build robust computational models that bridge molecular mechanisms
 - Alex Patrie, Software Developer
 
 # **Alumni**
-- [Ryan Spangler](https://www.linkedin.com/in/ryankspangler/), Software Director
+- Ryan Spangler, Software Director
 - Amin Boroomand, postdoc with C-CoMP
 - Jayde Schlesener, Bridge-to-PhD student with C-CoMP
 - Isha Mendiratta, Undergraduate Researcher

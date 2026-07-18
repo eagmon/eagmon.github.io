@@ -46,9 +46,7 @@ layout: default
 [Process Bigraph](https://github.com/vivarium-collective/process-bigraph) \
 [Foundations of a Compositional Systems Biology](https://arxiv.org/abs/2408.00942) \
 [Process Bigraphs and the Architecture of Compositional Systems Biology](https://arxiv.org/abs/2512.23754) \
-[Process Bigraph Supplemental Materials](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphSupplement2025.pdf) \
-[Video: Process Bigraphs — Modeling Life (download)](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphs_ModelingLife.mp4) \
-[Video: Bigraphs — A Universal Language (download)](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/Bigraphs_UniversalLanguage.mp4)
+[Process Bigraph Supplemental Materials](https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/files/ProcessBigraphSupplement2025.pdf)
 
 ### Other Ongoing Collaborations
 - [Covert lab E. coli Model](https://www.covert.stanford.edu)
