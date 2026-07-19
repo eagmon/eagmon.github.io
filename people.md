@@ -22,6 +22,8 @@ permalink: /people/
     </div>
 </div>
 
+### Trainees
+
 <div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_arnab.png" alt="Arnab Mutsuddy" class="people-image" />
     <div class="person-info">
@@ -77,7 +79,8 @@ She aims to further develop her computational expertise and advance integrative 
     </div>
 </div>
 
-### Software Developers
+### Staff
+- Chris Long, Bioengineer
 - Boyan Beronov, Software Developer
 - Alex Patrie, Software Developer
 
