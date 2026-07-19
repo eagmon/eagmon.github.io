@@ -71,17 +71,6 @@ She aims to further develop her computational expertise and advance integrative 
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/tanvir.png" alt="Neyamat Khan Tanvir" class="people-image" />
-    <div class="person-info">
-        <strong><a href="https://www.linkedin.com/in/neyamat-khan-tanvir/" target="_blank">Neyamat Khan Tanvir</a>, PhD Student (Biomedical Sciences)</strong><br/>
-Tanvir is working on modeling sRNA (small RNA) regulation in response to different stresses. 
-He aims to integrate immunological perspectives into whole-cell models to better capture host-pathogen dynamics. 
-Prior to joining UConn Health, he conducted whole-genome sequencing and comparative analysis of Citrobacter werkmanii. 
-He aspires to build robust computational models that bridge molecular mechanisms and cellular behaviour, driving innovations in biological research.
-    </div>
-</div>
-
-<div class="person">
     <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/matt.png" alt="Matt Zingarella" class="people-image" />
     <div class="person-info">
         <strong>Matt Zingarella, Masters Student (Applied Genomics)</strong><br/>
@@ -93,6 +82,7 @@ He aspires to build robust computational models that bridge molecular mechanisms
 - Alex Patrie, Software Developer
 
 # **Alumni**
+- [Neyamat Khan Tanvir](https://www.linkedin.com/in/neyamat-khan-tanvir/), Masters Student
 - Ryan Spangler, Software Director
 - Amin Boroomand, postdoc with C-CoMP
 - Jayde Schlesener, Bridge-to-PhD student with C-CoMP

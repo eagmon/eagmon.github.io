@@ -25,7 +25,6 @@ Shared tooling for building, running, and exploring composite models.
 - [**pbg-superpowers**](https://github.com/vivarium-collective/pbg-superpowers) — skills and workflows for authoring and driving workspaces.
 - [**pbg-emitters**](https://github.com/vivarium-collective/pbg-emitters) — interchangeable data emitters (XArray / Zarr / Parquet).
 - [**pbg-basic-processes**](https://github.com/vivarium-collective/pbg-basic-processes) — reusable building blocks such as clocks, interventions, and math expressions.
-- [**pbg-uq**](https://github.com/vivarium-collective/pbg-uq) — portable forward uncertainty quantification (polynomial chaos + Sobol).
 
 #### Models &amp; Applications
 
@@ -34,7 +33,8 @@ Biological models built on the framework.
 - [**v2ecoli**](https://github.com/vivarium-collective/v2ecoli) — a whole-cell model of *E. coli* integrating gene regulation, metabolism, and physiology across molecular, cellular, and population scales ([live dashboard](https://vivarium-collective.github.io/v2ecoli/dashboard)).
 - [**3d-ecoli**](https://github.com/vivarium-collective/3d-ecoli) — a spatial, 3D whole-cell model of *E. coli* ([live 3D viewer](https://pub-eb913fbbdc584bd7add047c823570b13.r2.dev/viewer/index.html?models=https://pub-eb913fbbdc584bd7add047c823570b13.r2.dev/ecoli-3d/viz/3d/models.json)).
 - [**spatio-flux**](https://github.com/vivarium-collective/spatio-flux) — spatial flux-balance and reaction–diffusion composites for cells in their environments ([demo](https://vivarium-collective.github.io/spatio-flux/)).
-- [**parsimony**](https://github.com/vivarium-collective/parsimony) — spatial, mesh-based modeling of cell geometry and molecular crowding.
+- [**vivatyssue**](https://github.com/vivarium-collective/vivatyssue) — process-bigraph integration of [tyssue](https://github.com/DamCB/tyssue) for epithelial tissue mechanics.
+- [**viva-munk**](https://github.com/vivarium-collective/Viva-munk) — multi-cell simulations with 2D physics, growing and dividing cells in shared chemical environments ([demos](https://vivarium-collective.github.io/Viva-munk/)).
 - [**biomodels-comparison**](https://github.com/vivarium-collective/pbg-biomodels) — cross-engine comparison of ~900 curated BioModels across multiple simulators ([live site](https://vivarium-collective.github.io/biomodels-comparison/)).
 
 Browse everything at the [Vivarium Collective on GitHub](https://github.com/vivarium-collective).
