@@ -86,9 +86,6 @@ She aims to further develop her computational expertise and advance integrative 
 
 # **Alumni**
 - [Neyamat Khan Tanvir](https://www.linkedin.com/in/neyamat-khan-tanvir/), Masters Student
-- Ryan Spangler, Software Director
-- Amin Boroomand, postdoc with C-CoMP
-- Jayde Schlesener, Bridge-to-PhD student with C-CoMP
 - Isha Mendiratta, Undergraduate Researcher
 - Colin Slavin, Undergraduate Researcher
 - Christopher Rauch, Undergraduate Researcher
