@@ -128,18 +128,6 @@ permalink: /ai-artwork/
   </header>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/odyssey_of_the_cell.png" target="_blank">
-      <img src="/images/ai-artwork/odyssey_of_the_cell.png"
-           alt="The Odyssey of the Cell">
-    </a>
-    <figcaption>
-      <span class="title">The Odyssey of the Cell</span>
-      A living vessel finds its way through a sea that shapes every move. The cell as a ship — membrane hull and sail, cytoskeleton rigging, receptors on lookout, nucleus charting from memory — navigating immune storms, toxin whirlpools, siren signals, and the narrow passage of competing pressures. A cell does not command the sea from afar; it lives by navigating within it.
-      <a class="download" href="/images/ai-artwork/odyssey_of_the_cell.png" download>Download</a>
-    </figcaption>
-  </figure>
-
-  <figure class="ai-piece">
     <a href="/images/ai-artwork/organism_ship_of_theseus.png" target="_blank">
       <img src="/images/ai-artwork/organism_ship_of_theseus.png"
            alt="The Organism as Ship of Theseus">
@@ -148,6 +136,18 @@ permalink: /ai-artwork/
       <span class="title">The Organism as Ship of Theseus</span>
       An organism replaces nearly every molecule and cell it is made of, yet remains itself. The ancient puzzle of the ship whose planks are swapped one by one becomes biology's defining fact — identity is not the matter but the pattern that persists through continuous turnover. The cell is a process, not a substance.
       <a class="download" href="/images/ai-artwork/organism_ship_of_theseus.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/odyssey_of_the_cell.png" target="_blank">
+      <img src="/images/ai-artwork/odyssey_of_the_cell.png"
+           alt="The Odyssey of the Cell">
+    </a>
+    <figcaption>
+      <span class="title">The Odyssey of the Cell</span>
+      A living vessel finds its way through a sea that shapes every move. The cell as a ship — membrane hull and sail, cytoskeleton rigging, receptors on lookout, nucleus charting from memory — navigating immune storms, toxin whirlpools, siren signals, and the narrow passage of competing pressures. A cell does not command the sea from afar; it lives by navigating within it.
+      <a class="download" href="/images/ai-artwork/odyssey_of_the_cell.png" download>Download</a>
     </figcaption>
   </figure>
 
