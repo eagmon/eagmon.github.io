@@ -90,6 +90,18 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/we_the_builders.png" target="_blank">
+      <img src="/images/ai-artwork/we_the_builders.png"
+           alt="We the Builders of Biological Knowledge">
+    </a>
+    <figcaption>
+      <span class="title">We the Builders of Biological Knowledge</span>
+      A founding charter for a unified biology, in the style of a constitution — common interfaces, FAIR data, reproducibility, and open exchange as the articles by which independently-built models compose into one science, from molecules to ecosystems.
+      <a class="download" href="/images/ai-artwork/we_the_builders.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/living_factory_for_discovery.png" target="_blank">
       <img src="/images/ai-artwork/living_factory_for_discovery.png"
            alt="A Living Factory for Discovery">
@@ -114,14 +126,14 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/computational_vivarium_architecture.png" target="_blank">
-      <img src="/images/ai-artwork/computational_vivarium_architecture.png"
+    <a href="/images/ai-artwork/computational_vivarium_lab.png" target="_blank">
+      <img src="/images/ai-artwork/computational_vivarium_lab.png"
            alt="The Computational Vivarium">
     </a>
     <figcaption>
       <span class="title">The Computational Vivarium</span>
-      A schematic of the closed-loop scientific inquiry cycle around a living cell simulation — human experts, an AI integration layer, structural and conservation checks, and an ECM orchestrator threading data, models, and decisions through provenance-tracked computational infrastructure.
-      <a class="download" href="/images/ai-artwork/computational_vivarium_architecture.png" download>Download</a>
+      A laboratory built around a living cell simulation — scientists, robotic instruments, and AI holograms gathered around a central vivarium where a whole-cell model grows under glass. Measurement, computation, and interpretation brought into a single closed loop.
+      <a class="download" href="/images/ai-artwork/computational_vivarium_lab.png" download>Download</a>
     </figcaption>
   </figure>
 
@@ -186,6 +198,18 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/ecology_of_the_cell.png" target="_blank">
+      <img src="/images/ai-artwork/ecology_of_the_cell.png"
+           alt="The Ecology of the Cell">
+    </a>
+    <figcaption>
+      <span class="title">The Ecology of the Cell</span>
+      Ten laws of intracellular ecosystems. The cell seen as a living landscape of niches, gradients, and succession — where relation precedes identity, disturbance reveals dependency, and cells construct the very worlds they inhabit. The cell is not a machine; it is a living ecosystem.
+      <a class="download" href="/images/ai-artwork/ecology_of_the_cell.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/model_must_graduate_whole_cell.png" target="_blank">
       <img src="/images/ai-artwork/model_must_graduate_whole_cell.png"
            alt="The Model Must Graduate">
@@ -206,6 +230,18 @@ permalink: /ai-artwork/
       <span class="title">The Model Must Testify</span>
       A simulation becomes science when it can be questioned. Executable Conjecture Modeling moves evidence through a chain of custody — scoped assumptions, schema-checked artifacts, declared readouts, severe tests, three-part verdicts, and repairs that generate new predictions.
       <a class="download" href="/images/ai-artwork/model_must_testify.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
+    <a href="/images/ai-artwork/model_must_pass_inspection.png" target="_blank">
+      <img src="/images/ai-artwork/model_must_pass_inspection.png"
+           alt="The Model Must Pass Inspection">
+    </a>
+    <figcaption>
+      <span class="title">The Model Must Pass Inspection</span>
+      A model becomes credible scientific evidence only after it survives an industrial inspection line — specification, assembly, pre-run QC, stress testing, discrepancy analysis, and a decision gate — before shipping with an assurance dossier that says exactly what is claimed, how it was tested, and where it applies.
+      <a class="download" href="/images/ai-artwork/model_must_pass_inspection.png" download>Download</a>
     </figcaption>
   </figure>
 
