@@ -11,7 +11,7 @@ permalink: /people/
 # **People**
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran2024.JPG" alt="Eran Agmon" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/eran2026.jpg" alt="Eran Agmon" class="people-image" />
     <div class="person-info">
         <strong><a href="https://www.linkedin.com/in/eran-agmon/" target="_blank">Eran Agmon</a>, Principal Investigator</strong><br/>
         Eran is an Assistant Professor at the Center for Cell Analysis and Modeling at the University of Connecticut Health Center. 
