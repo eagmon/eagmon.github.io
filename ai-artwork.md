@@ -350,14 +350,14 @@ permalink: /ai-artwork/
   </figure>
 
   <figure class="ai-piece">
-    <a href="/images/ai-artwork/we_the_builders.png" target="_blank">
-      <img src="/images/ai-artwork/we_the_builders.png"
+    <a href="/images/ai-artwork/we_the_builders_constitution.png" target="_blank">
+      <img src="/images/ai-artwork/we_the_builders_constitution.png"
            alt="We the Builders of Biological Knowledge">
     </a>
     <figcaption>
       <span class="title">We the Builders of Biological Knowledge</span>
       A founding charter for a unified biology, in the style of a constitution — common interfaces, FAIR data, reproducibility, and open exchange as the articles by which independently-built models compose into one science, from molecules to ecosystems.
-      <a class="download" href="/images/ai-artwork/we_the_builders.png" download>Download</a>
+      <a class="download" href="/images/ai-artwork/we_the_builders_constitution.png" download>Download</a>
     </figcaption>
   </figure>
 
