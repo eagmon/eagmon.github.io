@@ -81,7 +81,6 @@ She aims to further develop her computational expertise and advance integrative 
 
 ### Staff
 - Chris Long, Bioengineer
-- Boyan Beronov, Software Developer
 - Alex Patrie, Software Developer
 
 # **Alumni**
