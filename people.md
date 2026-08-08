@@ -84,7 +84,7 @@ She aims to further develop her computational expertise and advance integrative 
 - Alex Patrie, Software Developer
 
 # **Alumni**
-- [Neyamat Khan Tanvir](https://www.linkedin.com/in/neyamat-khan-tanvir/), Masters Student
+- Neyamat Khan Tanvir, Masters Student
 - Isha Mendiratta, Undergraduate Researcher
 - Colin Slavin, Undergraduate Researcher
 - Christopher Rauch, Undergraduate Researcher
