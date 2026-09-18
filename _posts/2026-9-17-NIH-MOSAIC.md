@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eran joins NIH MOSAIC project on sex-specific metabolism
+title: Eran joins NIH MOSAIC project on sex-specific hormone dynamics
 ---
 
 CCAM's Eran Agmon is a project investigator on the newly funded NIH **MOSAIC (Modeling Of Sex-specific metabolism Across Interacting Communities)** project, part of NIH's new [$21 million Computational Modeling of Hormone Homeostasis Initiative](https://www.nih.gov/news-events/news-releases/nih-launches-21-million-initiative-improve-understanding-sex-specific-hormonal-biology). The initiative is advancing human-based computational models to better understand how sex-specific hormone dynamics influence treatment response, efficacy, and toxicity.
