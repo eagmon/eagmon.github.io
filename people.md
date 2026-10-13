@@ -72,18 +72,12 @@ She aims to further develop her computational expertise and advance integrative 
     </div>
 </div>
 
-<div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/matt.png" alt="Matt Zingarella" class="people-image" />
-    <div class="person-info">
-        <strong>Matt Zingarella, Masters Student (Applied Genomics)</strong><br/>
-    </div>
-</div>
-
 ### Staff
 - Chris Long, Bioengineer
 - Alex Patrie, Software Developer
 
 # **Alumni**
+- Matt Zingarella, Masters Student
 - Neyamat Khan Tanvir, Masters Student
 - Isha Mendiratta, Undergraduate Researcher
 - Colin Slavin, Undergraduate Researcher
