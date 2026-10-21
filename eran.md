@@ -4,7 +4,7 @@ title: About Eran
 permalink: /eran/
 ---
 
-Eran Agmon is an Assistant Professor at the [Center for Cell Analysis and Modeling](
+Eran Agmon is an Associate Professor at the [Center for Cell Analysis and Modeling](
 https://health.uconn.edu/cell-analysis-modeling/) and the [Department of Molecular Biology and Biophysics](
 https://health.uconn.edu/molecular-biology-biophysics/) at the University of Connecticut Health Center. He is the
 primary developer of [Vivarium](https://vivarium-collective.github.io) -- a software ecosystem for 
