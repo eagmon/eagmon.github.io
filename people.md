@@ -25,7 +25,7 @@ permalink: /people/
 ### Trainees
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_arnab.png" alt="Arnab Mutsuddy" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/arnab.jpg" alt="Arnab Mutsuddy" class="people-image" />
     <div class="person-info">
         <strong><a href="https://www.linkedin.com/in/arnab-m-12120079/" target="_blank">Arnab Mutsuddy</a>, Postdoc</strong><br/>
         About Arnab
@@ -34,13 +34,27 @@ permalink: /people/
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbe_tasnif.png" alt="Tasnif Rahman" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/tasnif.jpeg" alt="Tasnif Rahman" class="people-image" />
     <div class="person-info">
         <strong><a href="https://www.linkedin.com/in/tasnif-rahman/" target="_blank">Tasnif Rahman</a>, Postdoc</strong><br/>
 Tasnif is working on spatial models of bacterial communities and their interactions with host tissues. 
 His PhD at the Rensselaer Polytechnic Institute involved creating multicellular mechanical models to study symmetry breaking in tissue and organ morphogenesis. He looks forward to developing his computational skills is excited about revisiting his expertise in bacteriology developed during his undergraduate studies in Microbiology. 
 Outside of the lab, Tasnif enjoys videogames, basketball and dance music!
         <br/>
+    </div>
+</div>
+
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/microbescientist1.png" alt="Connor McShaffrey" class="people-image" />
+    <div class="person-info">
+        <strong>Connor McShaffrey, Postdoc</strong><br/>
+    </div>
+</div>
+
+<div class="person">
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/sabya.png" alt="Sabya Sutradhar" class="people-image" />
+    <div class="person-info">
+        <strong>Sabya Sutradhar, Postdoc</strong><br/>
     </div>
 </div>
 
