@@ -248,6 +248,18 @@ permalink: /ai-artwork/
   </header>
 
   <figure class="ai-piece">
+    <a href="/images/ai-artwork/the_discovery_engine.png" target="_blank">
+      <img src="/images/ai-artwork/the_discovery_engine.png"
+           alt="The Discovery Engine">
+    </a>
+    <figcaption>
+      <span class="title">The Discovery Engine</span>
+      The scientific method rendered as a machine. Six phases of inquiry — question, hypothesize, model, experiment, evaluate, synthesize — turn around a core of AI roles: an Orchestrator, a Reasoner, a Strategist, and a Knowledge Base. Each phase is watched over by the thinker who defined it — Socrates and Kuhn on questioning, Peirce and Popper on conjecture, Galileo and Newton on formal models, Bacon and Fisher on experiment, Bayes on updating from evidence, Darwin and Whewell on synthesis. A system for implementing, automating, and optimizing the cycle that turns questions and uncertainty into reliable, explanatory knowledge.
+      <a class="download" href="/images/ai-artwork/the_discovery_engine.png" download>Download</a>
+    </figcaption>
+  </figure>
+
+  <figure class="ai-piece">
     <a href="/images/ai-artwork/computational_vivarium_lab.png" target="_blank">
       <img src="/images/ai-artwork/computational_vivarium_lab.png"
            alt="The Computational Vivarium">
