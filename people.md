@@ -52,9 +52,14 @@ Outside of the lab, Tasnif enjoys videogames, basketball and dance music!
 </div>
 
 <div class="person">
-    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/sabya.png" alt="Sabya Sutradhar" class="people-image" />
+    <img src="https://raw.githubusercontent.com/eagmon/eagmon.github.io/master/images/sabya.png" alt="Sabyasachi Sutradhar" class="people-image" />
     <div class="person-info">
-        <strong>Sabya Sutradhar, Postdoc</strong><br/>
+        <strong><a href="https://www.linkedin.com/in/sabyasachi-sutradhar-41677bb4/" target="_blank">Sabyasachi Sutradhar</a>, Postdoc</strong><br/>
+Sabyasachi is a computational biophysicist with a background in statistical physics, soft matter, and quantitative cell biology, studying complex biological systems through computational modeling, numerical simulation, and quantitative image analysis.
+Before joining the Agmon Lab, he was an Associate Research Scientist in the Howard Lab at Yale University, where he investigated the mechanisms underlying neuronal dendrite morphogenesis and branching pattern formation, combining theoretical and computational approaches with experimental imaging to understand how cellular structures develop, organize, and respond to their local environments.
+He earned his Ph.D. in Physics from the University of Calcutta.
+        <br/>
+        <a href="https://scholar.google.co.in/citations?user=-UF_XAoAAAAJ&hl=en" target="_blank">Google Scholar</a> · <a href="https://github.com/SabyasachiSutradhar" target="_blank">GitHub</a>
     </div>
 </div>
 
